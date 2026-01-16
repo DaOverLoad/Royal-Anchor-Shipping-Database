@@ -1,4 +1,6 @@
--- Tracking order status for Customers and Recipients orders 
+-- THIS DOCUMENT CONTAINS QUERIS USED TO ANSWER THE SIX QUESTIONS BELOW
+
+-- 1) Tracking order status for Customers and Recipients orders 
 
     SELECT 
     book.booking_id,
@@ -17,7 +19,7 @@
     ORDER BY book.booking_date, book.booking_id;
 
 
--- Which orders contain goods that weigh over 1000kg and what routes are they assigned to?
+-- 2) Which orders contain goods that weigh over 1000kg, and what routes are they assigned to?
 
     SELECT 
     ord.order_id,
@@ -32,7 +34,7 @@
     JOIN ports po ON vess.port_id = po.port_id
     WHERE weight > 1000 
 
--- Calculating the amount of crew members in each department
+-- 3) Calculating the number of crew members in each department
 
     SELECT cj.job_title,
         COUNT(cr.crew_id) AS total_crew 
@@ -41,7 +43,7 @@
     GROUP BY cj.job_title
     ORDER BY total_crew DESC; 
 
--- Checking a Vessel Schedule  
+-- 4) Checking a Vessel Schedule  
 
     SELECT
     ve.vessel_name,
@@ -55,7 +57,7 @@
     WHERE ve.vessel_name = 'RAC ULCV Spirit'
     ORDER BY vs.port_order; 
 
--- Counting the customs form per destination port 
+-- 5) Counting the customs form per destination port 
 
     SELECT 
     oc.destination_port, 
@@ -65,7 +67,7 @@
     GROUP BY oc.destination_port 
     ORDER BY customs_forms DESC; 
 
--- How many containers in transit, damaged or empty? 
+-- 6) How many containers in transit, damaged or empty? 
 
     SELECT container_type_id, vessel_status, COUNT(*) AS count 
     FROM container_vessel
