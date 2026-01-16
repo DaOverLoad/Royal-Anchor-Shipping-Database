@@ -1,0 +1,3 @@
+This project was developed as part of a database design assignment, where I created a fully functional SQL-based database system for a fictional shipping company, Royal Anchor Shipping (RAC). The goal was to design, implement, and test a relational model capable of managing vessels, routes, customers, containers, crew, and bookings.
+
+Oracle SQL 
