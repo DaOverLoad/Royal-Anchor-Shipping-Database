@@ -1,0 +1,501 @@
+﻿ORDER_CONTAINER_ID,VESSEL_ID,CONTAINER_ID,CONTAINER_NUMBER,ORDER_STATUS,PICKUP_PORT,DESTINATION_PORT
+OC7777,V374,CT591,Processing,Onboard,Southern Port of Sudan,Long Beach
+OC3412,V427,CT545,Processing,Discharged,Mumbai Port,Busan
+OC5322,V371,CT427,Processing,Discharged,Port Hedland,Mumbai Port
+OC4658,V348,CT570,Processing,Discharged,St. Petersburg,Gibraltar Strait
+OC5590,V481,CT414,Processing,Discharged,Cape Town,Quebec
+OC6732,V287,CT596,Processing,Discharged,Los Angeles,Port Said (Suez Canal entrance)
+OC4705,V454,CT591,Processing,Discharged,Gladstone,Colon (Panama Canal entrance)
+OC2710,V344,CT434,Processing,Loaded,Mumbai Port,Jakarta
+OC7360,V268,CT498,Processing,Discharged,Walvis Bay,Hong Kong
+OC6507,V437,CT440,Processing,Loaded,Buenos Aires,Quebec
+OC7747,V348,CT575,Processing,Discharged,Busan,Panama Canal
+OC4022,V359,CT509,Processing,Loaded,Busan,Scheveningen
+OC5351,V474,CT537,Processing,Discharged,Hirtshals,Los Angeles
+OC6013,V399,CT544,Processing,Discharged,Kaohsiung,Port Everglades
+OC3288,V496,CT580,Processing,Onboard,Yokohama,St. Petersburg
+OC4706,V373,CT442,Processing,Onboard,Montreal Port,Port Botany
+OC6533,V291,CT471,Processing,Loaded,Durban,Houston
+OC2812,V215,CT574,Processing,Discharged,Gibraltar Strait,Algeciras
+OC6885,V423,CT492,Processing,Discharged,Colon (Panama Canal entrance),Manila
+OC4685,V447,CT458,Processing,Discharged,New York,Lisboa
+OC5657,V490,CT583,Processing,Onboard,Rotterdam,Port of Veracruz
+OC7353,V359,CT522,Processing,Onboard,Rotterdam,Southampton
+OC3285,V287,CT541,Processing,Onboard,Santos,Port Said (Suez Canal entrance)
+OC4107,V396,CT550,Processing,Discharged,Walvis Bay,Jakarta
+OC7067,V466,CT562,Processing,Onboard,Lisboa,Port of Veracruz
+OC5482,V478,CT550,Processing,Discharged,Colombo,Port Botany
+OC4122,V371,CT588,Processing,Loaded,Montreal Port,Rio de Janeiro
+OC7738,V481,CT451,Processing,Loaded,Port Everglades,Port Louis
+OC3938,V373,CT496,Processing,Discharged,Montreal Port,Shanghai Port
+OC6621,V377,CT554,Processing,Discharged,Port Tewfik (Suez Entrance),Hong Kong
+OC4189,V316,CT404,Processing,Loaded,Kaohsiung,Long Beach
+OC3396,V287,CT579,Processing,Onboard,Mumbai Port,Walvis Bay
+OC2952,V344,CT580,Processing,Discharged,Long Beach,Long Beach
+OC5357,V201,CT590,Processing,Onboard,Port Botany,Port Klang
+OC4369,V311,CT483,Processing,Discharged,Gladstone,Port Said (Suez Canal entrance)
+OC4548,V330,CT442,Processing,Discharged,Dover Strait,Lisboa
+OC4255,V426,CT483,Processing,Loaded,St. Petersburg,Mumbai Port
+OC7247,V349,CT469,Processing,Onboard,Xiamen,Kaohsiung
+OC7960,V412,CT473,Processing,Onboard,Long Beach,Yokohama
+OC6646,V268,CT593,Processing,Loaded,Quebec,Copenhagen
+OC7834,V339,CT596,Processing,Loaded,New York,Jakarta
+OC7615,V437,CT474,Processing,Onboard,Busan,Port Hedland
+OC5076,V491,CT503,Processing,Onboard,Colombo,Scheveningen
+OC5180,V495,CT408,Processing,Loaded,Yokohama,Port Fremantle
+OC7795,V447,CT554,Processing,Loaded,Walvis Bay,Rio de Janeiro
+OC5365,V278,CT450,Processing,Discharged,"Port of Thames, London",Los Angeles
+OC7046,V412,CT429,Processing,Discharged,Copenhagen,Manzanillo
+OC6020,V454,CT583,Processing,Onboard,Colon (Panama Canal entrance),Montreal Port
+OC5169,V495,CT445,Processing,Discharged,Cape Town,Rodman (Pacific side)
+OC6683,V311,CT561,Processing,Loaded,Rotterdam,Port Louis
+OC5202,V293,CT512,Processing,Loaded,Shanghai Port,Santos
+OC2800,V409,CT408,Processing,Onboard,Santos,Blanc Sablon
+OC5307,V257,CT482,Processing,Onboard,Hamburg,Jakarta
+OC5367,V466,CT587,Processing,Loaded,Yokohama,Rodman (Pacific side)
+OC3675,V281,CT578,Processing,Onboard,Panama Canal,Kaohsiung
+OC3881,V399,CT507,Processing,Onboard,Houston,Manzanillo
+OC2608,V447,CT480,Processing,Discharged,Port Klang,Gibraltar Strait
+OC4650,V268,CT500,Processing,Discharged,Gladstone,Algeciras
+OC2654,V427,CT490,Processing,Loaded,Hirtshals,Port Fremantle
+OC4671,V495,CT519,Processing,Discharged,Southern Port of Sudan,Port of Veracruz
+OC7977,V495,CT400,Processing,Loaded,Houston,Long Beach
+OC7920,V495,CT512,Processing,Loaded,Callao,Port Hedland
+OC5644,V464,CT580,Processing,Loaded,Long Beach,Dover Strait
+OC7042,V428,CT455,Processing,Discharged,Durban,Cape Town
+OC2609,V335,CT408,Processing,Loaded,Blanc Sablon,Port of Veracruz
+OC7332,V491,CT477,Processing,Discharged,Dover Strait,Port Said (Suez Canal entrance)
+OC7006,V431,CT450,Processing,Loaded,Rio de Janeiro,Port Botany
+OC2808,V427,CT432,Processing,Loaded,Mumbai Port,Rotterdam
+OC2996,V278,CT595,Processing,Onboard,Gibraltar Strait,Panama Canal
+OC5922,V282,CT568,Processing,Discharged,Port Klang,Port Everglades
+OC2832,V203,CT520,Processing,Loaded,Quebec,Houston
+OC4345,V337,CT501,Processing,Onboard,Shanghai Port,Manzanillo
+OC6234,V363,CT473,Processing,Loaded,Southampton,Rio de Janeiro
+OC7169,V281,CT415,Processing,Loaded,Cape Town,New York
+OC4659,V399,CT511,Processing,Onboard,Blanc Sablon,Gladstone
+OC7732,V338,CT493,Processing,Loaded,Scheveningen,Rotterdam
+OC6299,V339,CT538,Processing,Onboard,Port Fremantle,Manzanillo
+OC7501,V428,CT436,Processing,Discharged,Hamburg,Manila
+OC3416,V491,CT500,Processing,Discharged,Blanc Sablon,Quebec
+OC4466,V267,CT402,Processing,Discharged,Cape Town,Callao
+OC3337,V478,CT472,Processing,Onboard,Dover Strait,Xiamen
+OC5502,V338,CT575,Processing,Loaded,Shanghai Port,Rio de Janeiro
+OC4361,V383,CT415,Processing,Onboard,"Port of Thames, London",Colombo
+OC1546,V268,CT500,Processing,Loaded,Panama Canal,Hirtshals
+OC7867,V369,CT556,Processing,Discharged,Scheveningen,Honolulu
+OC5406,V447,CT408,Processing,Loaded,Houston,Gibraltar Strait
+OC7975,V377,CT570,Processing,Discharged,Scheveningen,Mumbai Port
+OC4205,V203,CT421,Processing,Discharged,Hamburg,Quebec
+OC4284,V423,CT506,Processing,Onboard,Cape Town,Long Beach
+OC7628,V481,CT574,Processing,Onboard,Panama Canal,Callao
+OC4721,V317,CT584,Processing,Onboard,Manila,Port Said (Suez Canal entrance)
+OC6164,V423,CT501,Processing,Loaded,Santos,Houston
+OC3155,V396,CT417,Processing,Loaded,Los Angeles,Montreal Port
+OC6174,V496,CT535,Processing,Discharged,Scheveningen,Port Botany
+OC5566,V377,CT572,Processing,Discharged,Gladstone,Port Botany
+OC7519,V205,CT551,Processing,Onboard,Manzanillo,Singapore (Singapore Strait)
+OC7688,V485,CT581,Processing,Onboard,Port Said (Suez Canal entrance),Mumbai Port
+OC4592,V287,CT546,Processing,Loaded,Port Botany,Quebec
+OC6487,V339,CT401,Processing,Loaded,"Port of Thames, London",Hong Kong
+OC6851,V447,CT588,Processing,Loaded,Quebec,Busan
+OC5930,V253,CT486,Processing,Onboard,Scheveningen,Shanghai Port
+OC3199,V486,CT426,Processing,Discharged,Mumbai Port,Honolulu
+OC7031,V311,CT442,Processing,Discharged,Callao,Rio de Janeiro
+OC6614,V466,CT425,Processing,Loaded,Shanghai Port,Manila
+OC3356,V268,CT535,Processing,Loaded,Colon (Panama Canal entrance),Port Klang
+OC4243,V427,CT401,Processing,Onboard,Los Angeles,Gibraltar Strait
+OC6070,V317,CT422,Processing,Onboard,Durban,Port Botany
+OC3469,V428,CT489,Processing,Loaded,Rodman (Pacific side),Hirtshals
+OC4373,V268,CT463,Processing,Loaded,Houston,Rodman (Pacific side)
+OC2543,V338,CT545,Processing,Discharged,Colombo,Lisboa
+OC5410,V431,CT525,Processing,Discharged,Honolulu,Rotterdam
+OC3547,V377,CT567,Processing,Onboard,Blanc Sablon,Port Tewfik (Suez Entrance)
+OC5377,V344,CT496,Processing,Onboard,Port Everglades,Singapore (Singapore Strait)
+OC5834,V396,CT410,Processing,Loaded,Jakarta,Hong Kong
+OC4785,V281,CT498,Processing,Onboard,Montreal Port,Rio de Janeiro
+OC5955,V201,CT562,Processing,Onboard,Port Botany,Montreal Port
+OC5921,V428,CT469,Processing,Loaded,Lisboa,Colon (Panama Canal entrance)
+OC3849,V423,CT413,Processing,Loaded,Montreal Port,Hamburg
+OC7199,V217,CT491,Processing,Loaded,Honolulu,Cape Town
+OC4888,V355,CT497,Processing,Loaded,New York,Hong Kong
+OC7187,V391,CT508,Processing,Onboard,Rio de Janeiro,Port Tewfik (Suez Entrance)
+OC4989,V287,CT452,Processing,Discharged,Rodman (Pacific side),Quebec
+OC5915,V464,CT488,Processing,Loaded,Rodman (Pacific side),Shanghai Port
+OC4332,V495,CT592,Processing,Discharged,Scheveningen,Port Fremantle
+OC2014,V316,CT552,Processing,Loaded,Rotterdam,Honolulu
+OC3532,V371,CT508,Processing,Onboard,Hamburg,Copenhagen
+OC6893,V433,CT514,Processing,Loaded,Port Fremantle,Copenhagen
+OC4036,V421,CT473,Processing,Onboard,Hirtshals,Port of Veracruz
+OC6661,V311,CT488,Processing,Onboard,Yokohama,Gladstone
+OC2982,V464,CT491,Processing,Onboard,Cape Town,Gibraltar Strait
+OC2673,V215,CT532,Processing,Loaded,Dover Strait,Hong Kong
+OC4533,V222,CT533,Processing,Onboard,Los Angeles,Gladstone
+OC7928,V367,CT402,Processing,Loaded,Santos,Durban
+OC2986,V412,CT440,Processing,Discharged,Port Botany,Port Botany
+OC2974,V349,CT435,Processing,Onboard,Port Botany,St. Petersburg
+OC6853,V466,CT558,Processing,Discharged,Cape Town,Manila
+OC2693,V203,CT490,Processing,Discharged,Honolulu,Port Hedland
+OC6275,V337,CT441,Processing,Loaded,Houston,Lisboa
+OC4074,V355,CT532,Processing,Onboard,Manila,Xiamen
+OC5612,V427,CT589,Processing,Discharged,Gibraltar Strait,Honolulu
+OC4037,V486,CT456,Processing,Onboard,Port Fremantle,Houston
+OC6272,V454,CT483,Processing,Onboard,Gibraltar Strait,Port Hedland
+OC4694,V486,CT560,Processing,Onboard,Port Everglades,Gladstone
+OC2691,V267,CT574,Processing,Discharged,Hamburg,Hamburg
+OC2924,V427,CT404,Processing,Discharged,Mumbai Port,Cape Town
+OC4311,V373,CT433,Processing,Discharged,Scheveningen,Long Beach
+OC5808,V396,CT433,Processing,Loaded,Southern Port of Sudan,Busan
+OC6904,V428,CT538,Processing,Discharged,Port Klang,Port Said (Suez Canal entrance)
+OC5262,V254,CT478,Processing,Onboard,New York,Rotterdam
+OC7282,V373,CT519,Processing,Discharged,Houston,Gladstone
+OC3685,V257,CT535,Processing,Discharged,Port Louis,Cape Town
+OC5903,V304,CT536,Processing,Onboard,Busan,Kaohsiung
+OC5495,V426,CT402,Processing,Loaded,Algeciras,St. Petersburg
+OC3373,V278,CT512,Processing,Loaded,"Port of Thames, London",Copenhagen
+OC2966,V486,CT447,Processing,Loaded,Gladstone,Hamburg
+OC3868,V377,CT474,Processing,Onboard,Port Said (Suez Canal entrance),Xiamen
+OC7213,V454,CT512,Processing,Onboard,Port Tewfik (Suez Entrance),Hamburg
+OC1248,V431,CT511,Processing,Loaded,Hirtshals,Panama Canal
+OC4052,V396,CT548,Processing,Onboard,Busan,Dover Strait
+OC3397,V474,CT481,Processing,Loaded,Santos,Rio de Janeiro
+OC8556,V371,CT558,Processing,Discharged,Blanc Sablon,Port Louis
+OC7502,V278,CT405,Processing,Loaded,Mumbai Port,Port Hedland
+OC2847,V276,CT409,Processing,Onboard,Mumbai Port,Busan
+OC7060,V396,CT547,Processing,Loaded,Singapore (Singapore Strait),Gibraltar Strait
+OC6606,V282,CT597,Processing,Loaded,Port Louis,Callao
+OC7545,V391,CT561,Processing,Discharged,Los Angeles,Quebec
+OC5570,V437,CT561,Processing,Discharged,Manila,Kaohsiung
+OC5727,V278,CT591,Processing,Discharged,"Port of Thames, London",Houston
+OC7206,V303,CT550,Processing,Loaded,Panama Canal,Port Klang
+OC6182,V426,CT592,Processing,Loaded,Manila,Port Tewfik (Suez Entrance)
+OC5014,V404,CT451,Processing,Loaded,New York,Cape Town
+OC5105,V304,CT458,Processing,Discharged,Rio de Janeiro,Port Fremantle
+OC5676,V495,CT455,Processing,Loaded,Manila,Colon (Panama Canal entrance)
+OC2857,V291,CT511,Processing,Loaded,Port Everglades,Southampton
+OC3862,V339,CT564,Processing,Loaded,Durban,Mumbai Port
+OC3908,V281,CT466,Processing,Onboard,St. Petersburg,Port Everglades
+OC3568,V205,CT558,Processing,Discharged,Honolulu,Port Fremantle
+OC2907,V486,CT457,Processing,Discharged,Southampton,Southern Port of Sudan
+OC6914,V379,CT594,Processing,Onboard,Manila,Long Beach
+OC3133,V287,CT499,Processing,Loaded,Rio de Janeiro,"Port of Thames, London"
+OC2864,V454,CT453,Processing,Onboard,Dover Strait,Manila
+OC7409,V461,CT438,Processing,Onboard,Montreal Port,"Port of Thames, London"
+OC3327,V316,CT530,Processing,Loaded,Port Everglades,Port of Veracruz
+OC2706,V317,CT403,Processing,Discharged,Algeciras,New York
+OC7377,V447,CT492,Processing,Loaded,Montreal Port,Walvis Bay
+OC3705,V348,CT497,Processing,Discharged,Dover Strait,Colombo
+OC3755,V396,CT460,Processing,Onboard,Callao,Hong Kong
+OC6176,V437,CT560,Processing,Discharged,Port Louis,Gladstone
+OC7149,V265,CT517,Processing,Discharged,Xiamen,Hong Kong
+OC2500,V437,CT417,Processing,Discharged,Buenos Aires,Gladstone
+OC7047,V495,CT552,Processing,Discharged,Southern Port of Sudan,Port Botany
+OC4095,V478,CT406,Processing,Loaded,"Port of Thames, London",Rio de Janeiro
+OC2638,V431,CT403,Processing,Discharged,Hirtshals,Colombo
+OC3123,V421,CT536,Processing,Loaded,Algeciras,Durban
+OC7173,V291,CT428,Processing,Loaded,Hong Kong,Hong Kong
+OC6425,V287,CT550,Processing,Discharged,Gibraltar Strait,Colon (Panama Canal entrance)
+OC3605,V433,CT402,Processing,Onboard,New York,Algeciras
+OC7280,V281,CT423,Processing,Discharged,"Port of Thames, London",Shanghai Port
+OC5771,V355,CT550,Processing,Onboard,Port Hedland,Southern Port of Sudan
+OC4455,V291,CT436,Processing,Onboard,Callao,Quebec
+OC5211,V396,CT489,Processing,Onboard,Port Hedland,"Port of Thames, London"
+OC7309,V303,CT441,Processing,Discharged,Santos,Quebec
+OC6106,V474,CT443,Processing,Loaded,Cape Town,Colombo
+OC3551,V374,CT500,Processing,Loaded,Los Angeles,Rotterdam
+OC4019,V253,CT525,Processing,Loaded,Port Klang,Southern Port of Sudan
+OC5429,V359,CT419,Processing,Loaded,Hirtshals,Honolulu
+OC6662,V379,CT443,Processing,Loaded,Hamburg,Panama Canal
+OC6906,V377,CT457,Processing,Discharged,Quebec,Port of Veracruz
+OC4521,V373,CT474,Processing,Loaded,Mumbai Port,Buenos Aires
+OC3767,V495,CT568,Processing,Onboard,Port Said (Suez Canal entrance),Rodman (Pacific side)
+OC4954,V406,CT567,Processing,Loaded,Southern Port of Sudan,Southern Port of Sudan
+OC9859,V423,CT403,Processing,Onboard,Port Louis,Honolulu
+OC7742,V316,CT428,Processing,Discharged,Port Fremantle,Kaohsiung
+OC3380,V454,CT587,Processing,Discharged,Port Botany,Manzanillo
+OC4428,V426,CT562,Processing,Discharged,Houston,St. Petersburg
+OC2631,V201,CT566,Processing,Loaded,Colombo,Rodman (Pacific side)
+OC3954,V316,CT508,Processing,Loaded,Port Everglades,Colombo
+OC4904,V359,CT567,Processing,Discharged,Port Hedland,Long Beach
+OC4360,V201,CT433,Processing,Onboard,Scheveningen,Dover Strait
+OC6770,V485,CT410,Processing,Loaded,Port Fremantle,St. Petersburg
+OC4787,V437,CT564,Processing,Onboard,Los Angeles,Port Louis
+OC6011,V205,CT562,Processing,Discharged,Honolulu,Algeciras
+OC7863,V367,CT553,Processing,Discharged,Dover Strait,Gladstone
+OC3965,V359,CT543,Processing,Discharged,Port Hedland,Algeciras
+OC6339,V359,CT556,Processing,Onboard,Lisboa,Port Fremantle
+OC3818,V412,CT566,Processing,Onboard,Colon (Panama Canal entrance),Port Fremantle
+OC5000,V485,CT447,Processing,Onboard,Port Said (Suez Canal entrance),Port Said (Suez Canal entrance)
+OC7984,V201,CT590,Processing,Discharged,Blanc Sablon,Rio de Janeiro
+OC7293,V447,CT572,Processing,Loaded,Montreal Port,Southern Port of Sudan
+OC6086,V348,CT430,Processing,Onboard,Walvis Bay,Xiamen
+OC5062,V377,CT581,Processing,Onboard,Port of Veracruz,Port Louis
+OC6479,V490,CT453,Processing,Onboard,Port Said (Suez Canal entrance),Port Louis
+OC5782,V278,CT494,Processing,Loaded,Panama Canal,Buenos Aires
+OC7693,V437,CT427,Processing,Onboard,Singapore (Singapore Strait),Gibraltar Strait
+OC5078,V268,CT438,Processing,Discharged,Montreal Port,Hirtshals
+OC4894,V349,CT562,Processing,Onboard,Port Hedland,Port of Veracruz
+OC6918,V369,CT480,Processing,Discharged,Hamburg,Dover Strait
+OC7923,V383,CT402,Processing,Loaded,Mumbai Port,Manzanillo
+OC4261,V205,CT418,Processing,Loaded,Mumbai Port,Kaohsiung
+OC6390,V421,CT476,Processing,Discharged,Los Angeles,Dover Strait
+OC3843,V254,CT580,Processing,Discharged,Honolulu,Cape Town
+OC5629,V254,CT420,Processing,Loaded,Walvis Bay,Manzanillo
+OC7543,V369,CT580,Processing,Discharged,Port Said (Suez Canal entrance),Scheveningen
+OC5685,V396,CT433,Processing,Discharged,Mumbai Port,Port Said (Suez Canal entrance)
+OC5728,V491,CT477,Processing,Discharged,Honolulu,Shanghai Port
+OC5918,V447,CT574,Processing,Loaded,Port Klang,Callao
+OC5373,V349,CT409,Processing,Onboard,Callao,Port of Veracruz
+OC6201,V217,CT445,Processing,Discharged,Manila,Gladstone
+OC4016,V367,CT424,Processing,Loaded,Panama Canal,"Port of Thames, London"
+OC2807,V406,CT412,Processing,Discharged,Manzanillo,Southern Port of Sudan
+OC3071,V363,CT585,Processing,Loaded,Port Tewfik (Suez Entrance),Southampton
+OC2383,V316,CT598,Processing,Onboard,Shanghai Port,Montreal Port
+OC3658,V201,CT438,Processing,Discharged,Port Said (Suez Canal entrance),Manzanillo
+OC4987,V282,CT548,Processing,Loaded,Copenhagen,Rio de Janeiro
+OC6604,V268,CT441,Processing,Loaded,Shanghai Port,Port Botany
+OC5241,V428,CT535,Processing,Loaded,Colon (Panama Canal entrance),Walvis Bay
+OC3618,V304,CT516,Processing,Onboard,Singapore (Singapore Strait),Port Everglades
+OC4726,V330,CT527,Processing,Onboard,Shanghai Port,Port Fremantle
+OC3673,V257,CT571,Processing,Discharged,Southampton,Gladstone
+OC6714,V215,CT515,Processing,Loaded,Rio de Janeiro,Houston
+OC4761,V406,CT491,Processing,Loaded,Southern Port of Sudan,Xiamen
+OC3999,V431,CT441,Processing,Discharged,Southern Port of Sudan,Singapore (Singapore Strait)
+OC4917,V464,CT590,Processing,Onboard,Yokohama,Los Angeles
+OC2895,V281,CT401,Processing,Discharged,Shanghai Port,New York
+OC3259,V282,CT591,Processing,Loaded,Blanc Sablon,Port Louis
+OC2927,V486,CT595,Processing,Discharged,Kaohsiung,Lisboa
+OC7476,V217,CT592,Processing,Discharged,Port of Veracruz,Durban
+OC3293,V267,CT424,Processing,Onboard,Copenhagen,Shanghai Port
+OC4750,V485,CT408,Processing,Loaded,Walvis Bay,Shanghai Port
+OC7523,V491,CT470,Processing,Onboard,Hong Kong,Rio de Janeiro
+OC3004,V303,CT555,Processing,Onboard,Rotterdam,Gladstone
+OC5891,V281,CT477,Processing,Loaded,Los Angeles,Jakarta
+OC5963,V349,CT426,Processing,Onboard,Port Louis,Port Tewfik (Suez Entrance)
+OC6706,V496,CT415,Processing,Discharged,Santos,Lisboa
+OC6642,V304,CT412,Processing,Onboard,Walvis Bay,Callao
+OC7924,V303,CT544,Processing,Onboard,Blanc Sablon,Gladstone
+OC3983,V396,CT557,Processing,Discharged,Houston,Cape Town
+OC6908,V278,CT429,Processing,Discharged,Rotterdam,Durban
+OC7454,V217,CT444,Processing,Onboard,Honolulu,Blanc Sablon
+OC8230,V371,CT430,Processing,Loaded,Buenos Aires,Port Klang
+OC3672,V276,CT547,Processing,Onboard,Kaohsiung,Panama Canal
+OC5051,V369,CT481,Processing,Onboard,Houston,Port Said (Suez Canal entrance)
+OC6357,V335,CT588,Processing,Loaded,Xiamen,Southern Port of Sudan
+OC3981,V367,CT529,Processing,Onboard,Quebec,Mumbai Port
+OC2981,V367,CT424,Processing,Onboard,Yokohama,Jakarta
+OC6675,V374,CT553,Processing,Onboard,St. Petersburg,Walvis Bay
+OC6960,V474,CT497,Processing,Onboard,Colombo,Scheveningen
+OC2859,V287,CT490,Processing,Onboard,Port Louis,Honolulu
+OC4644,V474,CT439,Processing,Discharged,Lisboa,Durban
+OC5999,V339,CT501,Processing,Discharged,Walvis Bay,Callao
+OC6562,V406,CT420,Processing,Discharged,Port Hedland,Dover Strait
+OC5451,V215,CT550,Processing,Onboard,St. Petersburg,Quebec
+OC6087,V363,CT433,Processing,Loaded,Rodman (Pacific side),Port Louis
+OC7686,V433,CT483,Processing,Discharged,Gladstone,Port Tewfik (Suez Entrance)
+OC7103,V355,CT499,Processing,Onboard,Lisboa,St. Petersburg
+OC5913,V339,CT577,Processing,Discharged,Long Beach,Rio de Janeiro
+OC7222,V254,CT555,Processing,Discharged,Walvis Bay,Yokohama
+OC4546,V359,CT543,Processing,Loaded,St. Petersburg,Rodman (Pacific side)
+OC3429,V257,CT437,Processing,Loaded,Port of Veracruz,Hong Kong
+OC7678,V267,CT582,Processing,Loaded,"Port of Thames, London","Port of Thames, London"
+OC2593,V311,CT529,Processing,Loaded,New York,Port Louis
+OC4996,V276,CT501,Processing,Onboard,Port Tewfik (Suez Entrance),Colombo
+OC5925,V317,CT509,Processing,Loaded,Southampton,Cape Town
+OC7259,V330,CT479,Processing,Loaded,Gladstone,Southern Port of Sudan
+OC5731,V344,CT433,Processing,Discharged,Rotterdam,Busan
+OC3577,V486,CT590,Processing,Onboard,Southampton,Copenhagen
+OC3202,V464,CT431,Processing,Loaded,Panama Canal,Montreal Port
+OC4899,V363,CT486,Processing,Discharged,Rodman (Pacific side),Port of Veracruz
+OC3773,V335,CT509,Processing,Discharged,Gibraltar Strait,Rotterdam
+OC4276,V404,CT521,Processing,Discharged,Dover Strait,Rotterdam
+OC4934,V339,CT452,Processing,Loaded,Colon (Panama Canal entrance),Buenos Aires
+OC7209,V359,CT404,Processing,Onboard,Algeciras,Gibraltar Strait
+OC4169,V383,CT505,Processing,Discharged,Algeciras,Long Beach
+OC3015,V421,CT530,Processing,Discharged,Durban,Callao
+OC2912,V404,CT524,Processing,Onboard,Panama Canal,Busan
+OC3714,V369,CT593,Processing,Onboard,Yokohama,Algeciras
+OC5123,V339,CT579,Processing,Loaded,Scheveningen,St. Petersburg
+OC3924,V355,CT504,Processing,Loaded,Port Fremantle,Houston
+OC3548,V391,CT596,Processing,Discharged,Port Fremantle,Panama Canal
+OC2932,V461,CT476,Processing,Onboard,Colombo,Panama Canal
+OC4786,V423,CT485,Processing,Onboard,Port Hedland,Port Hedland
+OC5824,V486,CT564,Processing,Onboard,"Port of Thames, London",Jakarta
+OC7890,V335,CT460,Processing,Loaded,Durban,Manzanillo
+OC7744,V293,CT543,Processing,Onboard,Dover Strait,Port Fremantle
+OC3003,V392,CT559,Processing,Loaded,Port of Veracruz,Port of Veracruz
+OC4555,V496,CT538,Processing,Onboard,Gladstone,Yokohama
+OC6498,V371,CT501,Processing,Onboard,Port Botany,Walvis Bay
+OC3210,V349,CT417,Processing,Discharged,Montreal Port,Durban
+OC3091,V311,CT535,Processing,Loaded,Port of Veracruz,Hong Kong
+OC6068,V383,CT511,Processing,Discharged,Panama Canal,Busan
+OC2629,V355,CT425,Processing,Onboard,Port Tewfik (Suez Entrance),New York
+OC4225,V282,CT436,Processing,Discharged,Dover Strait,Port Fremantle
+OC5005,V421,CT417,Processing,Loaded,Hirtshals,Algeciras
+OC4639,V369,CT590,Processing,Loaded,Copenhagen,Rotterdam
+OC7994,V363,CT473,Processing,Discharged,Rio de Janeiro,Houston
+OC5439,V267,CT524,Processing,Loaded,Southern Port of Sudan,Port Everglades
+OC7111,V344,CT566,Processing,Loaded,Xiamen,Gladstone
+OC4873,V348,CT590,Processing,Onboard,New York,Hong Kong
+OC4027,V363,CT499,Processing,Loaded,Dover Strait,Gladstone
+OC6717,V490,CT429,Processing,Loaded,"Port of Thames, London",Lisboa
+OC2734,V257,CT545,Processing,Discharged,Durban,Jakarta
+OC4396,V369,CT429,Processing,Onboard,Port Everglades,Buenos Aires
+OC3043,V267,CT473,Processing,Loaded,Manila,Durban
+OC6202,V396,CT493,Processing,Loaded,Callao,Hirtshals
+OC5186,V348,CT560,Processing,Loaded,Xiamen,Panama Canal
+OC3027,V377,CT403,Processing,Discharged,Southampton,Kaohsiung
+OC3290,V287,CT582,Processing,Loaded,Dover Strait,Manzanillo
+OC4955,V392,CT404,Processing,Loaded,Port Tewfik (Suez Entrance),Southampton
+OC5235,V412,CT524,Processing,Discharged,Copenhagen,Xiamen
+OC7675,V485,CT589,Processing,Loaded,Mumbai Port,Los Angeles
+OC7657,V428,CT444,Processing,Loaded,New York,Port Tewfik (Suez Entrance)
+OC6516,V276,CT462,Processing,Onboard,Rio de Janeiro,Mumbai Port
+OC6613,V433,CT509,Processing,Discharged,Rotterdam,Buenos Aires
+OC7329,V406,CT572,Processing,Discharged,Shanghai Port,Callao
+OC4139,V404,CT455,Processing,Loaded,Quebec,Callao
+OC7229,V377,CT500,Processing,Loaded,Southampton,Port Hedland
+OC4012,V371,CT436,Processing,Loaded,Busan,Santos
+OC2704,V481,CT530,Processing,Loaded,Port Klang,Port Botany
+OC6374,V276,CT550,Processing,Onboard,Manila,Hong Kong
+OC7734,V338,CT459,Processing,Loaded,Dover Strait,Gibraltar Strait
+OC3119,V428,CT556,Processing,Discharged,Port Everglades,Cape Town
+OC4185,V466,CT436,Processing,Discharged,Port Hedland,Port Botany
+OC6107,V374,CT463,Processing,Loaded,Callao,New York
+OC6030,V392,CT546,Processing,Discharged,Honolulu,Southampton
+OC8259,V383,CT548,Processing,Loaded,Durban,Cape Town
+OC3976,V205,CT508,Processing,Onboard,Singapore (Singapore Strait),Montreal Port
+OC7875,V205,CT421,Processing,Loaded,Kaohsiung,Colombo
+OC6692,V254,CT467,Processing,Loaded,Rodman (Pacific side),New York
+OC6156,V282,CT595,Processing,Loaded,Scheveningen,Honolulu
+OC5183,V495,CT595,Processing,Loaded,Algeciras,Port Fremantle
+OC7061,V486,CT533,Processing,Onboard,"Port of Thames, London",Callao
+OC6638,V281,CT455,Processing,Discharged,Port Everglades,Singapore (Singapore Strait)
+OC7800,V474,CT406,Processing,Discharged,Rio de Janeiro,Santos
+OC4409,V363,CT487,Processing,Discharged,Southern Port of Sudan,Southern Port of Sudan
+OC7900,V399,CT564,Processing,Loaded,Panama Canal,Durban
+OC3498,V317,CT574,Processing,Discharged,Hirtshals,Hamburg
+OC7546,V267,CT484,Processing,Discharged,Manzanillo,Lisboa
+OC7482,V276,CT456,Processing,Loaded,Southern Port of Sudan,Port Fremantle
+OC7080,V374,CT498,Processing,Onboard,Montreal Port,Blanc Sablon
+OC6805,V474,CT549,Processing,Discharged,Colon (Panama Canal entrance),Scheveningen
+OC5970,V355,CT498,Processing,Loaded,Durban,Mumbai Port
+OC6735,V344,CT429,Processing,Onboard,Port Tewfik (Suez Entrance),Rio de Janeiro
+OC5572,V282,CT541,Processing,Discharged,Honolulu,Blanc Sablon
+OC6270,V278,CT542,Processing,Loaded,Houston,Singapore (Singapore Strait)
+OC2531,V339,CT401,Processing,Discharged,Walvis Bay,Callao
+OC7967,V335,CT457,Processing,Discharged,Port Botany,Hirtshals
+OC3929,V437,CT508,Processing,Loaded,Copenhagen,Manila
+OC6098,V495,CT441,Processing,Loaded,Manila,Colombo
+OC4472,V287,CT513,Processing,Onboard,Busan,Port Botany
+OC6193,V412,CT546,Processing,Discharged,Shanghai Port,Xiamen
+OC4098,V379,CT565,Processing,Discharged,Mumbai Port,Los Angeles
+OC4025,V409,CT497,Processing,Onboard,Santos,Honolulu
+OC5068,V471,CT576,Processing,Discharged,Santos,Port Fremantle
+OC7761,V404,CT578,Processing,Loaded,"Port of Thames, London",Santos
+OC3956,V471,CT493,Processing,Discharged,Long Beach,Shanghai Port
+OC7214,V491,CT497,Processing,Loaded,Kaohsiung,Montreal Port
+OC7231,V466,CT493,Processing,Onboard,Hong Kong,Yokohama
+OC3829,V367,CT570,Processing,Loaded,Jakarta,Walvis Bay
+OC7594,V490,CT494,Processing,Discharged,Manzanillo,Colombo
+OC5151,V265,CT543,Processing,Discharged,Rio de Janeiro,New York
+OC5021,V293,CT552,Processing,Onboard,Mumbai Port,Busan
+OC6568,V369,CT470,Processing,Onboard,Lisboa,Shanghai Port
+OC7883,V217,CT419,Processing,Onboard,Manzanillo,Buenos Aires
+OC4687,V268,CT546,Processing,Onboard,Jakarta,Gladstone
+OC3466,V215,CT558,Processing,Onboard,Houston,Jakarta
+OC7618,V454,CT514,Processing,Onboard,Kaohsiung,Gibraltar Strait
+OC6875,V304,CT532,Processing,Discharged,Gladstone,New York
+OC5929,V485,CT545,Processing,Discharged,Port Hedland,Quebec
+OC3866,V349,CT445,Processing,Onboard,Southern Port of Sudan,Gibraltar Strait
+OC4583,V496,CT471,Processing,Loaded,Manila,Gibraltar Strait
+OC4392,V215,CT521,Processing,Loaded,Singapore (Singapore Strait),Port Hedland
+OC3831,V330,CT576,Processing,Loaded,Port Botany,Dover Strait
+OC6809,V383,CT479,Processing,Onboard,Xiamen,Cape Town
+OC4826,V428,CT421,Processing,Discharged,Gibraltar Strait,Copenhagen
+OC5091,V379,CT463,Processing,Discharged,Hamburg,Xiamen
+OC6707,V406,CT402,Processing,Onboard,Port Tewfik (Suez Entrance),Gladstone
+OC6917,V222,CT591,Processing,Onboard,Rodman (Pacific side),Panama Canal
+OC2554,V257,CT410,Processing,Discharged,Buenos Aires,Yokohama
+OC5987,V335,CT444,Processing,Loaded,Cape Town,Port Tewfik (Suez Entrance)
+OC2897,V338,CT471,Processing,Discharged,Port Botany,Jakarta
+OC6186,V391,CT497,Processing,Onboard,Los Angeles,Long Beach
+OC2917,V399,CT562,Processing,Loaded,Shanghai Port,Blanc Sablon
+OC7276,V215,CT430,Processing,Discharged,Long Beach,Durban
+OC7993,V489,CT410,Processing,Loaded,Port Fremantle,Algeciras
+OC7774,V466,CT580,Processing,Discharged,Gladstone,Rotterdam
+OC2903,V496,CT527,Processing,Discharged,Los Angeles,Gladstone
+OC6090,V454,CT444,Processing,Discharged,Port Everglades,Hirtshals
+OC6879,V215,CT541,Processing,Loaded,Gibraltar Strait,Busan
+OC4944,V433,CT556,Processing,Onboard,Honolulu,Southampton
+OC7177,V303,CT560,Processing,Loaded,Manzanillo,Scheveningen
+OC4417,V478,CT467,Processing,Onboard,Jakarta,Gibraltar Strait
+OC5807,V367,CT590,Processing,Onboard,Rotterdam,Cape Town
+OC5722,V222,CT505,Processing,Discharged,Panama Canal,Lisboa
+OC4634,V276,CT502,Processing,Onboard,Hamburg,Buenos Aires
+OC6927,V428,CT461,Processing,Loaded,Durban,Lisboa
+OC6637,V265,CT550,Processing,Onboard,Yokohama,Santos
+OC7152,V349,CT422,Processing,Loaded,Port Tewfik (Suez Entrance),Hamburg
+OC7058,V201,CT530,Processing,Loaded,Manila,Port Fremantle
+OC3820,V478,CT406,Processing,Onboard,Busan,Port Klang
+OC7758,V330,CT558,Processing,Discharged,Southern Port of Sudan,Shanghai Port
+OC3225,V396,CT472,Processing,Discharged,Durban,Algeciras
+OC6029,V265,CT595,Processing,Onboard,Port Louis,Jakarta
+OC6932,V282,CT589,Processing,Discharged,Gladstone,Port Klang
+OC4525,V276,CT417,Processing,Discharged,Copenhagen,Port Everglades
+OC7350,V485,CT544,Processing,Discharged,Colon (Panama Canal entrance),Hamburg
+OC3968,V276,CT533,Processing,Discharged,Colon (Panama Canal entrance),Busan
+OC7584,V391,CT582,Processing,Loaded,Los Angeles,Singapore (Singapore Strait)
+OC9119,V348,CT476,Processing,Discharged,Jakarta,Algeciras
+OC6491,V287,CT437,Processing,Loaded,Cape Town,Port Fremantle
+OC5594,V491,CT447,Processing,Discharged,Blanc Sablon,Port Fremantle
+OC7694,V267,CT455,Processing,Loaded,Hamburg,Singapore (Singapore Strait)
+OC5953,V454,CT580,Processing,Loaded,Yokohama,Port Fremantle
+OC5938,V491,CT567,Processing,Onboard,Houston,Port of Veracruz
+OC6496,V478,CT494,Processing,Onboard,Honolulu,Manzanillo
+OC7175,V383,CT489,Processing,Onboard,Colon (Panama Canal entrance),Copenhagen
+OC2544,V426,CT542,Processing,Onboard,Buenos Aires,Colon (Panama Canal entrance)
+OC4770,V217,CT563,Processing,Discharged,Port Louis,Port Said (Suez Canal entrance)
+OC6284,V404,CT438,Processing,Loaded,Long Beach,Port of Veracruz
+OC5689,V433,CT552,Processing,Onboard,Yokohama,Honolulu
+OC4719,V379,CT417,Processing,Loaded,Colon (Panama Canal entrance),Port Tewfik (Suez Entrance)
+OC4851,V474,CT401,Processing,Loaded,Panama Canal,Quebec
+OC7962,V427,CT473,Processing,Discharged,Lisboa,Manzanillo
+OC2777,V257,CT459,Processing,Onboard,Southampton,Jakarta
+OC5155,V257,CT408,Processing,Onboard,Colon (Panama Canal entrance),Port Tewfik (Suez Entrance)
+OC7557,V374,CT406,Processing,Discharged,Rodman (Pacific side),Port of Veracruz
+OC2655,V369,CT595,Processing,Loaded,Los Angeles,Montreal Port
+OC6812,V267,CT449,Processing,Discharged,Rio de Janeiro,Xiamen
+OC3783,V485,CT587,Processing,Discharged,Colon (Panama Canal entrance),Copenhagen
+OC4838,V303,CT499,Processing,Loaded,Port Klang,Manila
+OC4137,V330,CT471,Processing,Loaded,Southampton,Xiamen
+OC4329,V317,CT432,Processing,Onboard,Houston,Rio de Janeiro
+OC2648,V217,CT469,Processing,Onboard,Honolulu,Rotterdam
+OC7952,V293,CT571,Processing,Loaded,Port Tewfik (Suez Entrance),Gibraltar Strait
+OC5693,V267,CT464,Processing,Onboard,Gladstone,Port Louis
+OC7533,V330,CT470,Processing,Onboard,Colon (Panama Canal entrance),Honolulu
+OC7819,V363,CT519,Processing,Loaded,Hong Kong,Blanc Sablon
+OC6040,V490,CT442,Processing,Onboard,Southern Port of Sudan,Southampton
+OC5061,V257,CT504,Processing,Onboard,Panama Canal,Hirtshals
+OC6587,V217,CT581,Processing,Onboard,Shanghai Port,Singapore (Singapore Strait)
+OC6313,V433,CT576,Processing,Loaded,Dover Strait,Algeciras
+OC3580,V338,CT445,Processing,Onboard,Los Angeles,Scheveningen
+OC6204,V474,CT401,Processing,Onboard,Port Fremantle,Santos
+OC2760,V426,CT425,Processing,Discharged,Rio de Janeiro,Long Beach
+OC3839,V337,CT448,Processing,Loaded,Port Hedland,Hong Kong
+OC2769,V217,CT471,Processing,Onboard,Long Beach,Shanghai Port
+OC4228,V344,CT401,Processing,Discharged,Cape Town,Rodman (Pacific side)
+OC3434,V474,CT420,Processing,Loaded,Copenhagen,Port of Veracruz
+OC4677,V471,CT549,Processing,Discharged,Manzanillo,Houston
+OC4771,V281,CT496,Processing,Onboard,Yokohama,Houston
+OC7717,V399,CT441,Processing,Onboard,Honolulu,Quebec
+OC4347,V423,CT594,Processing,Loaded,Dover Strait,Southampton
+OC2809,V383,CT451,Processing,Onboard,Gladstone,Cape Town
+OC6561,V478,CT538,Processing,Discharged,Colon (Panama Canal entrance),Port Louis
+OC2657,V363,CT495,Processing,Loaded,New York,Rio de Janeiro
+OC5150,V363,CT566,Processing,Onboard,Houston,Hamburg
+OC7847,V217,CT588,Processing,Onboard,Southern Port of Sudan,Port Said (Suez Canal entrance)
+OC7427,V495,CT473,Processing,Loaded,Port Hedland,Honolulu
+OC3042,V253,CT436,Processing,Discharged,Port Hedland,Algeciras
+OC4614,V355,CT483,Processing,Onboard,Port Botany,Port of Veracruz
+OC6247,V344,CT429,Processing,Loaded,Houston,Scheveningen

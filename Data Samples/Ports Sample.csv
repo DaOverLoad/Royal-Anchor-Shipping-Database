@@ -1,0 +1,54 @@
+﻿PORT_ID,PORT_NAME,PORT_CODE,CITY,COUNTRY,LONGITUDE,LATITUDE,TIMEZONE
+P001,Shanghai Port,CNSHG,Shanghai,China,121.4917,31.2417,UTC+08:00
+P002,Singapore (Singapore Strait),SGSIN,Singapore,Singapore,103.8198,1.3521,UTC+08:00
+P003,Southern Port of Sudan,SDPZU,Port Sudan,Sudan,37.2164,19.6175,UTC+03:00
+P004,Port Tewfik (Suez Entrance),EGPTK,Suez,Egypt,32.566,29.9668,UTC+02:00
+P005,Port Said (Suez Canal entrance),EGPSD,Port Said,Egypt,32.3,31.2653,UTC+02:00
+P006,Algeciras,ESALG,Algeciras,Spain,-5.448,36.1408,UTC+01:00
+P007,Rotterdam,NLRTM,Rotterdam,Netherlands,4.4792,51.9225,UTC+01:00
+P008,Southampton,GBSOU,Southampton,United Kingdom,-1.4043,50.9097,UTC+00:00
+P009,New York,USNYC,New York,United States,-74.006,40.7128,UTC-05:00
+P010,Colon (Panama Canal entrance),PAONX,Colón,Panama,-79.899,9.359,UTC-05:00
+P011,Rodman (Pacific side),PAROD,Rodman,Panama,-79.554,8.933,UTC-05:00
+P012,Honolulu,USHNL,Honolulu,United States,-157.8583,21.3069,UTC-10:00
+P013,Yokohama,JPYOK,Yokohama,Japan,139.638,35.4437,UTC+09:00
+P014,Montreal Port,CAMTR,Montreal,Canada,-73.5673,45.5017,UTC-05:00
+P015,Quebec,CAQUE,Quebec City,Canada,-71.208,46.8139,UTC-05:00
+P016,Blanc Sablon,CAYBX,Blanc-Sablon,Canada,-57.1325,51.4197,UTC-04:00
+P017,Dover Strait,GBDVR,Dover,United Kingdom,1.3111,51.1279,UTC+00:00
+P018,Scheveningen,NLSCE,Scheveningen,Netherlands,4.2721,52.1086,UTC+01:00
+P019,Hamburg,DEHAM,Hamburg,Germany,9.9937,53.5511,UTC+01:00
+P020,Mumbai Port,INBOM,Mumbai,India,72.8777,19.076,UTC+05:30
+P021,Port Klang,MYPKG,Klang,Malaysia,101.3675,3.003,UTC+08:00
+P022,Gibraltar Strait,GIGIB,Gibraltar,Gibraltar,-5.3536,36.1408,UTC+01:00
+P023,"Port of Thames, London",GBLGP,London,United Kingdom,0.0553,51.5072,UTC+00:00
+P024,St. Petersburg,RULED,St. Petersburg,Russia,30.3351,59.9343,UTC+03:00
+P025,Copenhagen,DKCPH,Copenhagen,Denmark,12.5683,55.6761,UTC+01:00
+P026,Hirtshals,DKHIR,Hirtshals,Denmark,9.9667,57.5833,UTC+01:00
+P027,Lisboa,PTLIS,Lisbon,Portugal,-9.1393,38.7169,UTC+00:00
+P028,Colombo,LKCMB,Colombo,Sri Lanka,79.8612,6.9271,UTC+05:30
+P029,Port Botany,AUBTB,Sydney,Australia,151.2295,-33.9461,UTC+10:00
+P030,Port Fremantle,AUFRE,Fremantle,Australia,115.7593,-32.0556,UTC+08:00
+P031,Port Hedland,AUPHE,Port Hedland,Australia,118.607,-20.3104,UTC+08:00
+P032,Gladstone,AUGLT,Gladstone,Australia,151.256,-23.8428,UTC+10:00
+P033,Callao,PECLL,Callao,Peru,-77.1333,-12.05,UTC-05:00
+P034,Buenos Aires,ARBUE,Buenos Aires,Argentina,-58.4173,-34.6118,UTC-03:00
+P035,Port of Veracruz,MXVER,Veracruz,Mexico,-96.1342,19.1738,UTC-06:00
+P036,Port Everglades,USPEF,Fort Lauderdale,United States,-80.126,26.085,UTC-05:00
+P037,Rio de Janeiro,BRRIO,Rio de Janeiro,Brazil,-43.1729,-22.9068,UTC-03:00
+P038,Santos,BRSSZ,Santos,Brazil,-46.3289,-23.9608,UTC-03:00
+P039,Xiamen,CNXMN,Xiamen,China,118.0875,24.4798,UTC+08:00
+P040,Hong Kong,HKHKG,Hong Kong,China,114.1694,22.3193,UTC+08:00
+P041,Jakarta,IDJKT,Jakarta,Indonesia,106.8456,-6.2088,UTC+07:00
+P042,Busan,KRPUS,Busan,South Korea,129.0756,35.1796,UTC+09:00
+P043,Port Louis,MUPLU,Port Louis,Mauritius,57.4977,-20.1609,UTC+04:00
+P044,Manzanillo,MXZLO,Manzanillo,Mexico,-104.3238,19.053,UTC-06:00
+P045,Walvis Bay,NAWVB,Walvis Bay,Namibia,14.5058,-22.9576,UTC+02:00
+P046,Panama Canal,PAPCN,Panama City,Panama,-79.9151,8.9943,UTC-05:00
+P047,Manila,PHMNL,Manila,Philippines,120.9842,14.5995,UTC+08:00
+P048,Kaohsiung,TWKHH,Kaohsiung,Taiwan,120.302,22.6273,UTC+08:00
+P049,Houston,USHOU,Houston,United States,-95.3698,29.7604,UTC-06:00
+P050,Los Angeles,USLAX,Los Angeles,United States,-118.2437,34.0522,UTC-08:00
+P051,Long Beach,USLGB,Long Beach,United States,-118.1937,33.7701,UTC-08:00
+P052,Cape Town,ZACPT,Cape Town,South Africa,18.4241,-33.9249,UTC+02:00
+P053,Durban,ZADUR,Durban,South Africa,31.0218,-29.8587,UTC+02:00

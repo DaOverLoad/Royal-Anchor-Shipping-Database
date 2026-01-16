@@ -1,0 +1,25 @@
+﻿JOB_ID,JOB_TITLE,RANKINGS,DEPARTMENT,JOB_DESCRIPTION,CERTIFIED
+JB10,Captain,Officer,Deck,Master of the vessel,Y
+JB11,Chief Mate,Officer,Deck,Head of deck operations,Y
+JB12,Second Mate,Junior Officer,Deck,Navigation duties,Y
+JB13,Third Mate,Junior Officer,Deck,Safety equipment manager,Y
+JB14,Boatswain,Deck Crew,Deck,Lead deckhand operations,N
+JB15,Able Seaman,Deck Crew,Deck,Experienced deckhand,N
+JB16,Ordinary Seaman,Deck Crew,Deck,Junior deckhand,N
+JB17,Chief Engineer,Officer,Engine,Head of engine dept.,Y
+JB18,Second Engineer,Engineer,Engine,Assist Chief Engineer,Y
+JB19,Third Engineer,Engineer,Engine,Auxiliary engine ops,Y
+JB20,Fourth Engineer,Engineer,Engine,Engine room support,Y
+JB21,Motorman,Technician,Engine,Assist engine officers,N
+JB22,Oiler,Technician,Engine,Lubricates engine parts,N
+JB23,Wiper,Technician,Engine,Engine room cleaning,N
+JB24,Electrician,Technician,Engine,Maintains ship electrics,N
+JB25,Chief Cook,Catering Staff,Catering,Manages kitchen ops,N
+JB26,Cook,Catering Staff,Catering,Prepares daily meals,N
+JB27,Baker,Catering Staff,Catering,Bakes food items,N
+JB28,Steward,Catering Staff,Catering,Cabin service duties,N
+JB29,Messman,Catering Staff,Catering,Assists in mess hall,N
+JB30,Medic,Medical Officer,Medical,Provides medical care,Y
+JB31,Nurse,Medical Officer,Medical,Assists medical care,Y
+JB32,Radio Officer,Communication Officer,Communication,Handles communications,Y
+JB33,IT Officer,Communication Officer,Communication,Manages IT systems,N

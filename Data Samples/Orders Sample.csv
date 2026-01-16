@@ -1,0 +1,501 @@
+﻿ORDER_ID,BOOKING_ID,ITEM_DESCRIPTION,WEIGHT,VOLUME,ORDER_STATUS
+OR7386,BK746699,234 white ceramic tiles,1750.8,4.53,Processing
+OR6839,BK781006,744 blue bicycle tires,723.82,15.26,Processing
+OR6775,BK771469,618 blue dog food,663.22,1.35,Processing
+OR7338,BK619438,1056 blue LED bulbs,359.84,16.31,Processing
+OR6599,BK674787,538 white dog food,1094.97,6.48,Processing
+OR6321,BK660619,1290 white medical gloves,1998.21,16.43,Processing
+OR6140,BK634985,743 green T-shirts,803.59,8.17,Processing
+OR7704,BK671495,696 yellow glass bottles,1177.21,23.34,Processing
+OR7793,BK679536,117 black glass bottles,436.37,26.11,Processing
+OR7439,BK675755,1043 red yoga mats,1988.16,27.19,Processing
+OR6144,BK643479,1340 black ceramic tiles,936.32,6.6,Processing
+OR6945,BK772191,1510 red office chairs,1056.29,21.94,Processing
+OR6469,BK626596,882 black T-shirts,287.2,18.66,Processing
+OR7273,BK717816,1926 blue glass bottles,1278.21,17.32,Processing
+OR7774,BK899961,379 red steel beams,1150.09,29.76,Processing
+OR6437,BK592072,416 white yoga mats,961.13,25.64,Processing
+OR5898,BK621614,863 yellow T-shirts,320.32,13.89,Processing
+OR5747,BK825536,480 blue medical gloves,1247.09,17.42,Processing
+OR5805,BK750784,815 red office chairs,1403.38,13.15,Processing
+OR5995,BK723857,282 green glass bottles,1910.48,17.78,Processing
+OR6185,BK827342,498 green office chairs,352.81,26.75,Processing
+OR6178,BK584018,1751 yellow T-shirts,1512.89,4.9,Processing
+OR7512,BK632326,1111 black medical gloves,716.84,9.68,Processing
+OR6503,BK769088,1756 black LED bulbs,1398.03,18.87,Processing
+OR7324,BK612561,1774 yellow glass bottles,972.1,27.97,Processing
+OR6307,BK688631,1870 black office chairs,1800.27,4.03,Processing
+OR6611,BK790977,1424 red glass bottles,1979.77,11.6,Processing
+OR6337,BK811647,570 yellow coffee mugs,238,20.13,Processing
+OR6968,BK755217,680 green LED bulbs,596.28,18.42,Processing
+OR5752,BK734063,1733 blue bicycle tires,1948.12,3.22,Processing
+OR6728,BK580358,935 black office chairs,1566.16,22.52,Processing
+OR5957,BK554630,1236 black coffee mugs,1472.86,15.99,Processing
+OR7636,BK687130,847 blue steel beams,166,15.82,Processing
+OR7682,BK637509,1530 blue laptops,1469.07,21.36,Processing
+OR6830,BK761570,1593 yellow laptops,1643.63,28.77,Processing
+OR7640,BK781155,1674 black medical gloves,1235.6,13.01,Processing
+OR6784,BK860755,1640 black steel beams,1621.07,18.64,Processing
+OR6983,BK845348,1829 black smartphones,1150.54,7.87,Processing
+OR7403,BK811032,644 green glass bottles,1232.3,26.67,Processing
+OR6789,BK726375,1416 white glass bottles,559.58,5.95,Processing
+OR6095,BK793871,674 black yoga mats,625.84,7.29,Processing
+OR7983,BK885759,1015 red laptops,484.04,20.82,Processing
+OR6259,BK889745,783 green yoga mats,55.49,27.42,Processing
+OR5715,BK624619,355 red LED bulbs,502.5,5.33,Processing
+OR7784,BK624257,374 white medical gloves,1665.67,21.82,Processing
+OR5999,BK769347,447 black medical gloves,1544.72,19.36,Processing
+OR7961,BK714783,677 white office chairs,1944.9,25.18,Processing
+OR5705,BK630247,1745 blue LED bulbs,165.4,5.44,Processing
+OR7354,BK848225,1883 white T-shirts,1957.88,15.41,Processing
+OR7941,BK685369,940 yellow office chairs,1866.3,5.2,Processing
+OR7172,BK800377,911 blue glass bottles,293.05,14.14,Processing
+OR5777,BK808435,892 green smartphones,1932.58,24.79,Processing
+OR7447,BK655472,1508 blue dog food,444.26,10.67,Processing
+OR6980,BK606386,1509 red dog food,1773.11,5.85,Processing
+OR7018,BK658543,1800 yellow bicycle tires,1375.97,10.02,Processing
+OR6835,BK683312,1263 red glass bottles,1453.88,3.5,Processing
+OR7455,BK650041,706 red steel beams,425.24,8.25,Processing
+OR6318,BK857539,944 green medical gloves,1300.64,26.71,Processing
+OR5809,BK755493,1041 white ceramic tiles,738.43,25.57,Processing
+OR6536,BK712162,1069 black smartphones,852.95,7.5,Processing
+OR7524,BK695532,977 red bicycle tires,1157.68,19.42,Processing
+OR6173,BK694541,1421 yellow T-shirts,530.43,13.74,Processing
+OR6037,BK805077,1958 black medical gloves,845.22,27.35,Processing
+OR6929,BK710547,87 white steel beams,1618.19,16.99,Processing
+OR7655,BK648118,1192 green smartphones,1294.9,23.82,Processing
+OR6737,BK657550,1877 red glass bottles,372.67,20.45,Processing
+OR6933,BK602465,1567 blue office chairs,562.25,22.81,Processing
+OR6719,BK858805,1544 white smartphones,1723.21,27.97,Processing
+OR6718,BK726238,1468 green yoga mats,393.54,16.73,Processing
+OR5845,BK621522,1257 red bicycle tires,447.68,26.95,Processing
+OR7707,BK589259,1218 black office chairs,671.83,21.44,Processing
+OR6804,BK711259,417 green smartphones,246.97,3.45,Processing
+OR7286,BK619593,140 black steel beams,81.15,7.33,Processing
+OR7883,BK847796,647 black yoga mats,836.65,11.29,Processing
+OR7582,BK815957,1890 blue medical gloves,252.79,18.84,Processing
+OR6549,BK599130,944 white yoga mats,449.98,16.3,Processing
+OR6411,BK801251,396 black glass bottles,863.13,8.8,Processing
+OR6096,BK666867,1646 red laptops,1790.79,18.44,Processing
+OR5924,BK776477,1840 yellow steel beams,1126.33,4.6,Processing
+OR7736,BK802149,521 green yoga mats,1457.89,4.97,Processing
+OR6604,BK833927,212 yellow bicycle tires,552.96,14.53,Processing
+OR6269,BK707993,1182 black ceramic tiles,1566.88,22.13,Processing
+OR6734,BK640329,213 red yoga mats,450.45,2.59,Processing
+OR6853,BK554463,1000 green T-shirts,1431.13,13.76,Processing
+OR6044,BK555795,1397 red yoga mats,1348.67,9.02,Processing
+OR7014,BK678067,1634 white smartphones,1472.04,19.77,Processing
+OR7047,BK601687,1122 black bicycle tires,1492.73,15.32,Processing
+OR7824,BK647213,1071 white T-shirts,1991.73,19.5,Processing
+OR7167,BK745799,1112 black laptops,1105.06,1.93,Processing
+OR7274,BK899630,1866 green yoga mats,1863.03,13.4,Processing
+OR7596,BK737804,1187 green office chairs,1289.98,23.37,Processing
+OR7637,BK831912,1891 white smartphones,756.9,10.76,Processing
+OR6069,BK592503,203 blue laptops,1676.81,29.43,Processing
+OR7231,BK788036,891 black office chairs,323.3,1.96,Processing
+OR7628,BK789002,1824 blue bicycle tires,619.62,2.84,Processing
+OR7431,BK871036,1689 black LED bulbs,302.82,29.88,Processing
+OR7673,BK613826,1673 black yoga mats,1366.56,14.22,Processing
+OR6232,BK818366,1002 black glass bottles,339.15,26.03,Processing
+OR5998,BK615571,1397 white steel beams,609.03,13.7,Processing
+OR6715,BK795600,563 red medical gloves,1618.51,27.69,Processing
+OR5980,BK770697,1372 red steel beams,179.81,6.05,Processing
+OR6000,BK563229,141 yellow yoga mats,777.65,6.47,Processing
+OR7101,BK641462,1561 white bicycle tires,1686.01,10.04,Processing
+OR6449,BK776714,418 black medical gloves,807.78,18.97,Processing
+OR6914,BK728359,1926 green yoga mats,1248.69,9.34,Processing
+OR7004,BK748935,1828 yellow steel beams,1358.43,26.02,Processing
+OR5754,BK675230,1490 black T-shirts,1211.87,8.96,Processing
+OR6091,BK696159,437 white bicycle tires,980.72,21.02,Processing
+OR7246,BK704210,95 red yoga mats,220.96,29.1,Processing
+OR6626,BK843299,900 red smartphones,66.86,20.03,Processing
+OR6088,BK562003,1151 white laptops,1377.06,13.69,Processing
+OR6648,BK831243,963 white yoga mats,1826.67,7.76,Processing
+OR7552,BK833832,1017 yellow medical gloves,203.09,13.04,Processing
+OR6247,BK606834,1361 blue coffee mugs,548.35,19.97,Processing
+OR6826,BK558236,475 blue medical gloves,941.31,12.57,Processing
+OR6048,BK637005,1010 red smartphones,262.86,3.78,Processing
+OR6073,BK687277,189 red dog food,961.61,24.05,Processing
+OR6977,BK678143,1981 black office chairs,1526.45,9.87,Processing
+OR7059,BK826405,1632 blue bicycle tires,1105.2,18.52,Processing
+OR6113,BK834675,249 yellow dog food,272.1,7.01,Processing
+OR6316,BK732204,1541 white glass bottles,1826.64,10.1,Processing
+OR6780,BK735661,1700 green laptops,445.15,14.67,Processing
+OR7425,BK706446,1024 blue T-shirts,948.61,20.83,Processing
+OR7073,BK666151,1056 white bicycle tires,306.25,23.7,Processing
+OR7652,BK646162,251 black dog food,1776.98,20.08,Processing
+OR5718,BK792925,1887 blue laptops,172.48,14.31,Processing
+OR6237,BK608256,661 red smartphones,393.39,6.9,Processing
+OR7553,BK881759,688 yellow yoga mats,554.09,3.36,Processing
+OR7853,BK780604,1034 yellow dog food,415.88,14.16,Processing
+OR6457,BK586601,917 black coffee mugs,685.42,27.29,Processing
+OR6960,BK797933,342 yellow LED bulbs,1823.42,24.11,Processing
+OR5767,BK607797,1079 green dog food,618.75,11.25,Processing
+OR6358,BK670877,1911 yellow bicycle tires,1473.12,16.24,Processing
+OR6561,BK576954,289 red ceramic tiles,926.59,4.14,Processing
+OR6845,BK750743,742 green office chairs,871.99,21.31,Processing
+OR6904,BK622301,1099 green LED bulbs,1675.21,10.94,Processing
+OR7796,BK587145,1455 yellow laptops,164.64,27.61,Processing
+OR5743,BK788106,1497 blue glass bottles,293.03,28.25,Processing
+OR5769,BK611310,214 black coffee mugs,1357.16,20.01,Processing
+OR6823,BK787945,755 black medical gloves,893.85,2.15,Processing
+OR6008,BK700420,711 green ceramic tiles,1889.51,1.15,Processing
+OR6300,BK698197,585 yellow office chairs,1440.09,10.32,Processing
+OR6813,BK561936,1278 green glass bottles,59.33,1.42,Processing
+OR6685,BK896629,195 blue yoga mats,408.79,29.71,Processing
+OR6952,BK655495,1026 black ceramic tiles,1487.21,1.59,Processing
+OR7579,BK895832,834 red office chairs,934.25,25.32,Processing
+OR6828,BK802080,707 red steel beams,608.83,4.63,Processing
+OR7192,BK637318,1802 red yoga mats,1275.54,16.94,Processing
+OR6301,BK753514,378 white steel beams,1996.84,18.42,Processing
+OR7933,BK571298,788 blue glass bottles,1197.77,25.69,Processing
+OR6898,BK630402,242 green LED bulbs,230.34,17.69,Processing
+OR6869,BK749427,1061 green coffee mugs,1346.29,26.63,Processing
+OR6306,BK792550,182 green T-shirts,770.25,22.38,Processing
+OR7136,BK891564,84 red glass bottles,313.49,13.7,Processing
+OR7168,BK742551,1401 green coffee mugs,1986.99,19.37,Processing
+OR5830,BK834181,958 red office chairs,211.65,21.46,Processing
+OR6946,BK702463,423 black yoga mats,1429.24,12.76,Processing
+OR7016,BK712418,930 blue bicycle tires,1578.86,20.68,Processing
+OR5958,BK670668,1624 black bicycle tires,1600.25,16.91,Processing
+OR7021,BK595069,348 blue yoga mats,910.43,10.41,Processing
+OR7836,BK835955,1715 blue office chairs,1272.19,24,Processing
+OR6288,BK715164,469 yellow yoga mats,661.98,5.78,Processing
+OR7089,BK880915,914 yellow laptops,649.3,11.35,Processing
+OR7753,BK634536,672 white T-shirts,1736.46,9.08,Processing
+OR6822,BK723590,1994 white LED bulbs,300.47,22.03,Processing
+OR7833,BK589046,938 black coffee mugs,1396.34,4.12,Processing
+OR6408,BK616397,887 yellow dog food,1899.14,2.3,Processing
+OR6251,BK866027,1232 yellow laptops,551.15,13.96,Processing
+OR6479,BK666243,731 white bicycle tires,1305.78,3.2,Processing
+OR6405,BK561798,149 black steel beams,870.02,26.1,Processing
+OR6417,BK848279,340 white medical gloves,485.09,21.53,Processing
+OR7111,BK765513,918 green steel beams,102.62,26.56,Processing
+OR6198,BK663416,835 blue office chairs,62.48,15.86,Processing
+OR7612,BK788826,1340 blue steel beams,159.35,24.12,Processing
+OR7998,BK874560,975 white bicycle tires,65.95,25.53,Processing
+OR7340,BK862407,1922 black bicycle tires,1768.82,18.92,Processing
+OR7866,BK891827,722 red LED bulbs,1064.2,27.58,Processing
+OR7963,BK704158,466 blue bicycle tires,726.73,16.09,Processing
+OR7468,BK803883,319 black ceramic tiles,1054.98,4.74,Processing
+OR5700,BK791496,1024 yellow steel beams,658.51,13.39,Processing
+OR6138,BK730495,545 yellow LED bulbs,1803.14,10.8,Processing
+OR7033,BK872238,893 red steel beams,1812.18,15.1,Processing
+OR7219,BK871121,573 red coffee mugs,984.43,21.22,Processing
+OR6123,BK666679,1906 red office chairs,368.64,13.18,Processing
+OR7747,BK637095,769 green smartphones,1071.79,4.46,Processing
+OR6351,BK776006,1557 red laptops,232.89,14.04,Processing
+OR7581,BK788010,402 white steel beams,786.01,9.63,Processing
+OR7098,BK899333,822 white coffee mugs,260.29,10.66,Processing
+OR7237,BK683210,216 red laptops,1888.63,16.87,Processing
+OR7874,BK810166,298 black T-shirts,1659.04,14.23,Processing
+OR6964,BK780716,1395 blue ceramic tiles,1025.02,3.79,Processing
+OR6283,BK560941,1279 yellow medical gloves,1509.79,2.78,Processing
+OR6364,BK851447,1359 black yoga mats,1009.37,12.28,Processing
+OR7147,BK674095,1888 blue office chairs,832.94,5.44,Processing
+OR7993,BK881943,875 blue yoga mats,724.55,14.32,Processing
+OR7807,BK654473,250 blue office chairs,1455.32,28.74,Processing
+OR6250,BK686329,113 white bicycle tires,1658.81,4.51,Processing
+OR6649,BK653473,559 green smartphones,1422.66,2.94,Processing
+OR7620,BK782866,593 blue ceramic tiles,101.9,11.75,Processing
+OR6726,BK823170,363 green ceramic tiles,841.4,6.13,Processing
+OR6573,BK617865,527 black glass bottles,1182.05,14.98,Processing
+OR7396,BK595407,1156 yellow laptops,276.08,21.15,Processing
+OR6331,BK699427,1240 white medical gloves,1262.7,15.87,Processing
+OR7440,BK784194,873 red T-shirts,836.15,9.87,Processing
+OR7350,BK887181,1842 blue dog food,539.66,8.36,Processing
+OR7130,BK869013,1975 green LED bulbs,1713.73,9.24,Processing
+OR5968,BK820160,1957 blue bicycle tires,557.95,20.71,Processing
+OR7830,BK732685,1117 green steel beams,566.67,24.53,Processing
+OR7266,BK668728,849 blue glass bottles,1756.42,19.45,Processing
+OR6922,BK690864,437 white LED bulbs,249.48,10.43,Processing
+OR6131,BK720815,1084 red bicycle tires,1866.58,7.58,Processing
+OR7685,BK826927,110 green yoga mats,1916.07,20.16,Processing
+OR7433,BK826694,1210 yellow yoga mats,1034.57,1.93,Processing
+OR6555,BK898991,679 black yoga mats,1475.98,8.32,Processing
+OR6590,BK785306,895 white T-shirts,1473.53,25.63,Processing
+OR6203,BK717497,1440 green bicycle tires,1873.52,1.54,Processing
+OR6369,BK833289,805 white bicycle tires,594.81,18.61,Processing
+OR6067,BK767817,1396 red steel beams,572.81,10.74,Processing
+OR7885,BK611195,795 black office chairs,1757.08,8.93,Processing
+OR5804,BK705867,127 yellow ceramic tiles,1278.95,20.36,Processing
+OR5979,BK724572,604 green bicycle tires,1152.17,25.21,Processing
+OR7177,BK697893,1229 white smartphones,414.6,18.32,Processing
+OR6099,BK687183,432 blue T-shirts,1448.96,9.49,Processing
+OR5928,BK629717,1554 white smartphones,208.65,13.27,Processing
+OR6163,BK808584,1294 white coffee mugs,345.54,15.08,Processing
+OR6260,BK845575,1243 white LED bulbs,444.13,22.43,Processing
+OR7700,BK762945,1870 yellow yoga mats,1957.57,7.24,Processing
+OR6265,BK644683,1462 white bicycle tires,1845.11,3.8,Processing
+OR5735,BK621033,1450 blue steel beams,1673.66,8.01,Processing
+OR7530,BK707633,1498 black dog food,1941.57,4.16,Processing
+OR6101,BK581079,321 red dog food,932.58,3.72,Processing
+OR7318,BK718176,1640 white laptops,1737.33,19.89,Processing
+OR7193,BK702779,912 black yoga mats,498.08,23.85,Processing
+OR6062,BK738687,330 blue smartphones,1775.19,21.33,Processing
+OR6286,BK771668,1383 blue ceramic tiles,809.24,15.85,Processing
+OR7432,BK765715,1972 green glass bottles,1041.07,4.7,Processing
+OR7816,BK655568,1218 blue coffee mugs,167.45,26.15,Processing
+OR6400,BK741651,1054 green coffee mugs,987.4,18.91,Processing
+OR5970,BK757784,1927 white ceramic tiles,111.22,9.68,Processing
+OR5888,BK715941,1917 red medical gloves,643.8,5.32,Processing
+OR5922,BK558973,672 green ceramic tiles,1676.58,3.42,Processing
+OR7150,BK774516,1897 green office chairs,857.06,14.51,Processing
+OR6875,BK747664,799 white yoga mats,593.17,14.26,Processing
+OR7151,BK803345,821 yellow bicycle tires,1093.86,22.79,Processing
+OR6606,BK864790,1196 green T-shirts,1647.97,12.14,Processing
+OR7922,BK679339,1488 green steel beams,1153.96,26.44,Processing
+OR5876,BK651260,1970 blue LED bulbs,698.32,2.9,Processing
+OR7954,BK624096,803 red office chairs,1873.15,15.54,Processing
+OR6814,BK859629,1210 green medical gloves,594.43,23.7,Processing
+OR7896,BK762299,124 blue T-shirts,337.83,27.23,Processing
+OR6638,BK898113,1180 green T-shirts,291.25,21.43,Processing
+OR6389,BK567963,934 black laptops,121.65,1.91,Processing
+OR7397,BK815641,1358 yellow ceramic tiles,1485.95,8.71,Processing
+OR7285,BK682115,186 black bicycle tires,1296.64,9.89,Processing
+OR6565,BK701368,541 yellow dog food,535.18,13.57,Processing
+OR6783,BK895232,1143 white steel beams,516.19,27.4,Processing
+OR5843,BK824014,522 blue coffee mugs,1214.44,2.65,Processing
+OR7921,BK762494,1204 yellow smartphones,1685.53,1.58,Processing
+OR7780,BK800604,1851 white T-shirts,1449.06,27.84,Processing
+OR6289,BK854427,151 yellow laptops,463.97,19.81,Processing
+OR7699,BK585675,1023 yellow office chairs,271.97,26.58,Processing
+OR6628,BK709926,1512 green dog food,1123.73,11.2,Processing
+OR6222,BK683632,1274 white laptops,1445.67,26.92,Processing
+OR7430,BK728311,725 white bicycle tires,661.56,22.56,Processing
+OR5855,BK799111,1678 white laptops,900.99,20.81,Processing
+OR7028,BK588105,1283 yellow bicycle tires,1666.85,6.73,Processing
+OR7079,BK796703,1973 green smartphones,1329.44,20.7,Processing
+OR7138,BK821343,959 black T-shirts,606.42,16.6,Processing
+OR7291,BK559647,1282 black steel beams,372.71,23.54,Processing
+OR5812,BK627434,938 yellow ceramic tiles,1668.25,3.3,Processing
+OR6238,BK565168,1578 red dog food,811.88,22.17,Processing
+OR6105,BK719932,401 yellow laptops,219.97,24,Processing
+OR6426,BK877342,1214 red office chairs,612.97,3.39,Processing
+OR7384,BK654291,1137 red steel beams,1026.27,19.96,Processing
+OR6210,BK691779,1407 yellow yoga mats,234.75,11.15,Processing
+OR7402,BK779843,484 yellow glass bottles,1033.77,21.78,Processing
+OR7201,BK696716,874 black office chairs,1331.09,26.99,Processing
+OR7577,BK794971,1044 green coffee mugs,1143.4,4.51,Processing
+OR5900,BK813387,357 green yoga mats,568.24,5.04,Processing
+OR5813,BK819474,1085 black dog food,1358.91,13.8,Processing
+OR6697,BK704886,1707 blue bicycle tires,658.1,21.67,Processing
+OR7967,BK718200,862 black bicycle tires,195.95,13.42,Processing
+OR6090,BK787598,916 blue bicycle tires,1059.44,15.66,Processing
+OR7371,BK835989,1533 black coffee mugs,861.67,17.65,Processing
+OR5764,BK839104,845 yellow office chairs,260.42,25.35,Processing
+OR6338,BK773914,211 black ceramic tiles,1696.33,20.04,Processing
+OR7083,BK787960,1615 blue laptops,1760.62,29.78,Processing
+OR6522,BK626833,1739 blue ceramic tiles,591.07,11.92,Processing
+OR7030,BK845906,991 white bicycle tires,1499.47,19.39,Processing
+OR7788,BK616731,586 black office chairs,1631.5,1.5,Processing
+OR7224,BK858265,630 white ceramic tiles,1953.18,5.46,Processing
+OR7099,BK609397,510 white glass bottles,1907.14,19.41,Processing
+OR5972,BK737987,812 red office chairs,1064.72,3.11,Processing
+OR6246,BK853668,780 red yoga mats,977.55,5.66,Processing
+OR6214,BK679194,386 green bicycle tires,273.95,15.42,Processing
+OR5699,BK808990,1010 black medical gloves,1888.45,19.68,Processing
+OR7676,BK569903,1178 black bicycle tires,1747.56,20.82,Processing
+OR5873,BK681744,1385 white yoga mats,640.25,17.82,Processing
+OR6431,BK842698,226 yellow coffee mugs,1802.89,3.78,Processing
+OR6322,BK624021,814 green T-shirts,1476.32,22.49,Processing
+OR6709,BK808483,377 green ceramic tiles,762.23,24.36,Processing
+OR6052,BK756151,582 green coffee mugs,1265.49,6.05,Processing
+OR5903,BK728195,761 blue ceramic tiles,1039.02,10.86,Processing
+OR5984,BK880880,1855 black office chairs,1622.52,26.83,Processing
+OR7464,BK704166,1660 blue office chairs,1461.39,17.2,Processing
+OR7726,BK788622,1346 black LED bulbs,154.88,20.91,Processing
+OR7498,BK552932,1348 yellow medical gloves,741.82,11.66,Processing
+OR6576,BK615387,246 black T-shirts,1394.91,21.32,Processing
+OR7560,BK832847,1561 black yoga mats,1459.32,16.58,Processing
+OR6207,BK780765,526 blue steel beams,1812.57,15.66,Processing
+OR5967,BK704677,1787 yellow steel beams,817.56,26.75,Processing
+OR6790,BK843600,594 blue smartphones,478.6,13.24,Processing
+OR7868,BK732079,789 blue smartphones,876.58,8.5,Processing
+OR6494,BK693721,140 yellow office chairs,388.73,22.88,Processing
+OR6402,BK573102,1354 black T-shirts,1485.15,11.37,Processing
+OR6474,BK771785,110 black smartphones,608.2,3.13,Processing
+OR7228,BK569589,345 green coffee mugs,732.98,19.15,Processing
+OR5808,BK663811,464 blue ceramic tiles,1534.43,18.16,Processing
+OR6891,BK784858,1859 blue yoga mats,1839.18,11.4,Processing
+OR7486,BK580757,1634 white LED bulbs,1756.77,3.42,Processing
+OR7194,BK639054,671 red medical gloves,238.04,1.9,Processing
+OR6632,BK778579,1260 black laptops,467.26,4.43,Processing
+OR6776,BK632231,204 red laptops,1255.13,10.85,Processing
+OR6876,BK895582,1630 black steel beams,423.25,6.7,Processing
+OR6896,BK759952,116 red dog food,1041.69,25.5,Processing
+OR7327,BK768876,1066 yellow ceramic tiles,727.91,26.96,Processing
+OR7742,BK810341,1082 yellow steel beams,80.05,21.15,Processing
+OR5879,BK769593,875 red steel beams,1096.9,21.46,Processing
+OR6420,BK833826,574 black glass bottles,1508.23,29.3,Processing
+OR7584,BK854053,1257 black medical gloves,599.93,1.99,Processing
+OR7529,BK719634,110 red dog food,1857.81,22.87,Processing
+OR6115,BK629574,823 yellow office chairs,89.82,20.47,Processing
+OR7864,BK874640,160 black LED bulbs,1277.03,16.22,Processing
+OR6975,BK632568,1435 white bicycle tires,271.22,29.27,Processing
+OR6863,BK829972,454 black coffee mugs,716.45,11.41,Processing
+OR6332,BK819248,60 green bicycle tires,727.49,14.59,Processing
+OR6566,BK835831,740 green LED bulbs,1755.46,6.41,Processing
+OR6169,BK865678,1721 black medical gloves,477.53,7.15,Processing
+OR7446,BK650303,372 green bicycle tires,1257.91,25.52,Processing
+OR6794,BK833686,869 blue LED bulbs,124.81,12.21,Processing
+OR7648,BK739790,294 red bicycle tires,1242.68,11.27,Processing
+OR6014,BK819740,742 white laptops,1957.95,10.33,Processing
+OR7827,BK865210,1696 white dog food,834.73,15.51,Processing
+OR6211,BK552157,53 red ceramic tiles,270.72,27.33,Processing
+OR6137,BK825382,1506 white ceramic tiles,865.01,19.16,Processing
+OR7254,BK666621,1954 blue T-shirts,1296.29,18.3,Processing
+OR7713,BK601884,1172 red smartphones,1085.19,1.6,Processing
+OR5740,BK705303,829 yellow yoga mats,1410.75,12.74,Processing
+OR7982,BK618488,780 black bicycle tires,107.55,24.05,Processing
+OR5759,BK862345,1054 blue smartphones,360,4.36,Processing
+OR5824,BK741536,991 red yoga mats,1690.73,13.15,Processing
+OR7300,BK832311,1285 green dog food,1587.98,28.87,Processing
+OR7695,BK616425,1718 yellow office chairs,1636.12,16.49,Processing
+OR7681,BK895018,646 yellow bicycle tires,814.58,15.85,Processing
+OR6950,BK664955,378 yellow T-shirts,1375.61,7.4,Processing
+OR7341,BK825085,1395 white steel beams,1877.43,29.63,Processing
+OR5770,BK713945,346 yellow medical gloves,1773.12,17.97,Processing
+OR6166,BK633669,486 white office chairs,1830.36,7.65,Processing
+OR6127,BK740498,166 red yoga mats,1281.69,9.75,Processing
+OR7356,BK550622,206 black glass bottles,501.58,27.47,Processing
+OR6177,BK816890,1329 black LED bulbs,79.3,3.17,Processing
+OR7164,BK734678,1853 white smartphones,994.28,2.14,Processing
+OR6003,BK564119,1726 green steel beams,754.68,18.7,Processing
+OR6378,BK677839,1580 yellow glass bottles,1761.49,27.14,Processing
+OR7708,BK601062,850 green smartphones,1382.95,12.1,Processing
+OR6234,BK577744,1311 yellow laptops,421.55,3.68,Processing
+OR6642,BK685755,889 yellow medical gloves,1760.17,17.04,Processing
+OR7429,BK633579,1130 white dog food,1658.59,19.66,Processing
+OR6345,BK822001,859 green smartphones,411.85,14.79,Processing
+OR6865,BK777922,1360 white laptops,1110.25,17.72,Processing
+OR7135,BK875367,290 red dog food,897.73,24.7,Processing
+OR6176,BK717464,1576 blue yoga mats,1035.61,27.32,Processing
+OR5746,BK877505,1317 yellow laptops,178.73,11.72,Processing
+OR5948,BK575133,1729 white bicycle tires,1181.25,20.27,Processing
+OR6881,BK779087,1437 blue dog food,174.61,7.83,Processing
+OR6152,BK552681,810 blue smartphones,1276.39,19.6,Processing
+OR7234,BK793831,66 yellow coffee mugs,1630.2,12.14,Processing
+OR7758,BK808330,283 yellow medical gloves,1046.62,19.72,Processing
+OR7935,BK863924,425 black dog food,866.99,4.94,Processing
+OR6686,BK561803,308 yellow T-shirts,878.15,10.51,Processing
+OR6510,BK756706,514 green medical gloves,1803.2,11.04,Processing
+OR6122,BK781859,753 blue coffee mugs,1199.94,20.68,Processing
+OR6078,BK580168,672 yellow steel beams,636.42,10.83,Processing
+OR6359,BK677795,1422 yellow laptops,1802.61,22.24,Processing
+OR6296,BK799167,1977 white yoga mats,358.28,25.92,Processing
+OR7088,BK834852,578 yellow glass bottles,1711.57,4.87,Processing
+OR5785,BK694411,1906 black office chairs,317.28,29.55,Processing
+OR7765,BK639375,1736 green bicycle tires,1432.35,12.46,Processing
+OR5822,BK602811,1811 white ceramic tiles,1658.14,5.53,Processing
+OR5708,BK889460,1007 red yoga mats,516.02,5,Processing
+OR6941,BK855389,1822 black glass bottles,196.74,10.69,Processing
+OR6499,BK597442,951 yellow LED bulbs,1138.5,19.5,Processing
+OR6614,BK603256,1493 yellow medical gloves,849.06,21.16,Processing
+OR6466,BK706521,1084 red coffee mugs,782.53,11.09,Processing
+OR6256,BK700195,130 white medical gloves,1472.03,21.76,Processing
+OR6897,BK842979,677 red glass bottles,521.49,28.33,Processing
+OR6892,BK865557,1728 green yoga mats,1080.71,21.84,Processing
+OR7068,BK557951,754 green yoga mats,1857.08,15.59,Processing
+OR7687,BK808982,1840 black ceramic tiles,1528.84,10.07,Processing
+OR6551,BK744854,229 black LED bulbs,1769.12,6.09,Processing
+OR6696,BK709835,160 black office chairs,193.46,14.16,Processing
+OR7385,BK796761,1363 green yoga mats,585.05,5.51,Processing
+OR7128,BK665814,1911 white coffee mugs,813.15,1.5,Processing
+OR7948,BK579834,477 green T-shirts,1553.95,19.1,Processing
+OR6254,BK758483,549 yellow T-shirts,568.99,7.38,Processing
+OR5831,BK696594,1324 black office chairs,1294.5,26.43,Processing
+OR7820,BK788255,276 green yoga mats,714.04,11.83,Processing
+OR7943,BK634502,137 white LED bulbs,905.44,6.49,Processing
+OR6174,BK885207,1976 yellow office chairs,1146.8,16.56,Processing
+OR6532,BK656703,355 yellow bicycle tires,1665.89,1.92,Processing
+OR7962,BK604318,973 blue coffee mugs,1831.62,17.95,Processing
+OR7635,BK642440,90 yellow office chairs,1393.17,9.27,Processing
+OR7578,BK661983,1382 blue ceramic tiles,530.63,11.13,Processing
+OR6074,BK567000,1213 black smartphones,1835.76,22.03,Processing
+OR6753,BK558601,216 white yoga mats,863.16,9.45,Processing
+OR5850,BK614172,1294 white office chairs,1951.53,29.81,Processing
+OR7540,BK746952,176 white T-shirts,1682.09,18.79,Processing
+OR6220,BK636594,1503 black glass bottles,767.69,10.04,Processing
+OR6507,BK686750,988 blue dog food,412.47,17.41,Processing
+OR6578,BK594662,705 green LED bulbs,1008.5,22.26,Processing
+OR6777,BK708295,521 white LED bulbs,784.99,22.24,Processing
+OR7840,BK844602,356 green bicycle tires,1065.14,6.42,Processing
+OR6996,BK594459,176 blue steel beams,1327.02,6.05,Processing
+OR6521,BK682259,868 red T-shirts,361.26,21.94,Processing
+OR7987,BK580158,1884 yellow laptops,1180.48,11.15,Processing
+OR6601,BK890680,832 white steel beams,1776.26,19.36,Processing
+OR7966,BK752057,781 black coffee mugs,1273.41,29.48,Processing
+OR7206,BK674462,165 white dog food,617.46,5.93,Processing
+OR7882,BK722268,1259 red smartphones,1341.84,25.52,Processing
+OR6184,BK814989,394 white dog food,760.04,6.01,Processing
+OR6629,BK683288,1852 red bicycle tires,1177.27,12.62,Processing
+OR7703,BK662304,1550 red ceramic tiles,674.08,28.06,Processing
+OR6053,BK890170,1992 green ceramic tiles,1954.74,7.07,Processing
+OR7603,BK818627,480 blue yoga mats,1278.82,7.93,Processing
+OR7573,BK595309,1084 black coffee mugs,1437.99,15.17,Processing
+OR7585,BK706234,1652 white dog food,1901.81,26.35,Processing
+OR7799,BK803927,1942 green office chairs,1096.85,15.48,Processing
+OR7633,BK705186,1459 yellow dog food,298.27,10.14,Processing
+OR7649,BK632632,1409 blue smartphones,1330.62,25.02,Processing
+OR7957,BK761203,989 white T-shirts,1302.28,17.78,Processing
+OR6208,BK603236,1994 green LED bulbs,852.92,17.68,Processing
+OR6559,BK679125,1251 red T-shirts,124.39,12.71,Processing
+OR6161,BK744991,593 black smartphones,1689.03,16.19,Processing
+OR7623,BK697540,1585 blue LED bulbs,914.25,25.64,Processing
+OR6489,BK619713,1939 black smartphones,149.54,19.38,Processing
+OR6836,BK602205,1981 blue medical gloves,633.51,1.36,Processing
+OR5801,BK773881,675 yellow laptops,1862.53,11.5,Processing
+OR7718,BK570963,1828 yellow smartphones,541.12,3.63,Processing
+OR6816,BK732498,1316 white steel beams,1439.05,15.32,Processing
+OR7974,BK745595,517 green bicycle tires,1930.48,4.5,Processing
+OR7907,BK749919,1713 white coffee mugs,1539.67,2.8,Processing
+OR6808,BK885080,103 blue glass bottles,675.21,16.87,Processing
+OR5763,BK629365,182 yellow office chairs,898.49,19.57,Processing
+OR7230,BK703091,1779 green coffee mugs,1229.34,5.27,Processing
+OR7015,BK684145,1336 black office chairs,847.96,21.33,Processing
+OR6767,BK632699,164 black laptops,513.25,13.84,Processing
+OR7594,BK893663,1647 yellow glass bottles,1974.3,28.6,Processing
+OR6923,BK871699,1242 yellow steel beams,908.86,25.11,Processing
+OR7026,BK622650,1094 black medical gloves,1312.67,6.29,Processing
+OR7495,BK805834,1157 white medical gloves,1290.15,14.92,Processing
+OR7738,BK821614,875 red LED bulbs,1320.5,23.64,Processing
+OR7859,BK592260,1785 red glass bottles,362.43,8.32,Processing
+OR7528,BK730241,136 black dog food,614.46,13.64,Processing
+OR7454,BK790024,613 green dog food,915.5,18.41,Processing
+OR6454,BK553942,1415 blue dog food,490.31,20.31,Processing
+OR6193,BK592699,991 yellow steel beams,91.78,23.85,Processing
+OR7876,BK676624,637 yellow LED bulbs,1832.3,25.71,Processing
+OR7568,BK834867,972 yellow dog food,1111.96,22.15,Processing
+OR5869,BK595056,1366 black smartphones,168.87,1.44,Processing
+OR7333,BK803640,1879 white bicycle tires,1364.49,22.32,Processing
+OR6429,BK784673,1387 white ceramic tiles,897.37,26.15,Processing
+OR6651,BK863833,1514 white laptops,1327.56,21.79,Processing
+OR7466,BK832524,1727 black T-shirts,1786.81,17.1,Processing
+OR7513,BK767621,1334 red laptops,916.19,29.95,Processing
+OR6743,BK854760,312 red steel beams,1610.25,22.02,Processing
+OR5815,BK576460,96 yellow yoga mats,347.38,10.04,Processing
+OR7918,BK890974,1951 blue ceramic tiles,1205.3,3.85,Processing
+OR7055,BK639568,493 blue bicycle tires,1507.85,15.56,Processing
+OR5923,BK765867,886 yellow yoga mats,1597.01,25.37,Processing
+OR6199,BK777760,955 white laptops,103.51,20.2,Processing
+OR6701,BK839363,278 blue laptops,965.9,6.74,Processing
+OR5793,BK556931,1220 yellow glass bottles,1928.5,12.83,Processing
+OR7062,BK628677,168 white medical gloves,290.37,28.53,Processing
+OR7991,BK552272,644 blue smartphones,1568.19,25.72,Processing
+OR5727,BK792853,1661 green smartphones,251.73,3.85,Processing
+OR7414,BK724530,923 black office chairs,1439.04,13.01,Processing
+OR7786,BK668761,1802 white office chairs,1490.44,10.7,Processing
+OR7377,BK595393,1884 green medical gloves,1756.12,12.83,Processing
+OR7109,BK708425,1688 green glass bottles,483.4,26.42,Processing
+OR7797,BK671329,952 red dog food,83.35,14.4,Processing
+OR7144,BK882634,1990 green steel beams,697.6,9.05,Processing
+OR7808,BK779208,377 red office chairs,892.79,4.31,Processing
+OR6694,BK653664,1124 green yoga mats,1195.37,6.19,Processing
+OR7927,BK852414,766 red steel beams,1927.29,8.18,Processing
+OR6579,BK752666,321 blue smartphones,570.44,8.27,Processing
+OR5792,BK620284,230 green steel beams,677.14,29.87,Processing
+OR7330,BK556713,537 red glass bottles,980.68,18.36,Processing
+OR6272,BK697411,1327 red medical gloves,568.49,4.22,Processing
+OR6704,BK823100,1141 green LED bulbs,415.9,5.07,Processing
+OR6225,BK823453,786 yellow LED bulbs,1498.3,12.45,Processing

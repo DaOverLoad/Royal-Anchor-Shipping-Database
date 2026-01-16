@@ -1,0 +1,11 @@
+﻿ROUTE_ID,ROUTE_NAME,NUMBER_OF_STOPS,ROUTE
+SR02,Route 2 - New York to Yokohama,5,"New York, USA → Yokohama, Japan"
+SR03,Route 3 - Montreal to Hamburg,6,"Montreal, Canada → Hamburg, Germany"
+SR04,Route 4 - Mumbai to London,7,"Mumbai, India → London, UK"
+SR05,Route 5 - St. Petersburg to Lisbon,5,"St. Petersburg, Russia → Lisbon, Portugal"
+SR06,Route 6 - Dublin to Sydney,9,"Dublin, Ireland → Sydney, Australia"
+SR07,Route 7 - Perth to New York,9,"Perth, Australia → New York, America"
+SR08,Route 8 - Singapore to Los Angeles,10,"Singapore → Los Angeles, USA"
+SR09,Route 9 - Cape Town to Shanghai,7,"Cape Town, South Africa → Shanghai, China"
+SR10,Route 10 - Busan to Santos,8,"Busan, South Korea → Santos, Brazil"
+SR01,Route 1 - Shanghai to Rotterdam,8,"Shanghai, China → Rotterdam, Netherlands"

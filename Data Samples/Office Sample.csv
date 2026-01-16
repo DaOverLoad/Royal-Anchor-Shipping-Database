@@ -1,0 +1,33 @@
+﻿OFFICE_ID,OFFICE_NAME,OFFICE_BRANCH,ADDRESS,POSTAL_CODE,COUNTRY,PHONE,EMAIL,LONGITUDE,LATITUDE,PORT_ID
+OF01,RAC Southampton Office,Main,"Royal Anchor HQ, 1 Ocean Way, Southampton",SO14 3GG,United Kingdom,4.41235E+11,southampton@rac.com,-1.4043,50.9097,P008
+OF02,RAC Singapore Office,Main,"Maritime Square, 83 HarbourFront Centre, Singapore",018989,Singapore,6.51235E+11,singapore@rac.com,103.8198,1.3521,P002
+OF03,RAC New York Office,Main,"Pier 11 Building, South Street Seaport, New York",10007,United States,1.21235E+11,newyork@rac.com,-74.006,40.7128,P009
+OF04,RAC Rotterdam Office,Main,"Port of Rotterdam Authority, Wilhelminakade 909, Rotterdam",3011,Netherlands,3.11235E+11,rotterdam@rac.com,4.4792,51.9225,P007
+OF05,RAC Shanghai Office,Main,"15 East Daming Road, Hongkou District, Shanghai",200000,China,8.61235E+11,shanghai@rac.com,121.4917,31.2417,P001
+OF06,RAC Hamburg Office,Main,"Port Authority, Bei St. Annen 1, Hamburg",20095,Germany,4.91235E+11,hamburg@rac.com,9.9937,53.5511,P019
+OF07,RAC Yokohama Office,Main,"1 Kaigandori, Naka Ward, Yokohama",231-0005,Japan,8.11235E+11,yokohama@rac.com,139.638,35.4437,P013
+OF08,RAC Port Klang Office,Main,"Port Klang Authority, Jalan Pelabuhan Utara, Klang",42000,Malaysia,6.01235E+11,portklang@rac.com,101.3675,3.003,P021
+OF09,RAC Buenos Aires Office,Main,"Terminal Portuaria, Avenida Alicia Moreau de Justo, Buenos Aires",C1000,Argentina,5.41235E+11,buenosaires@rac.com,-58.4173,-34.6118,P034
+OF10,RAC Colon Branch,Branch,"Zona Portuaria, Avenida Randolph, Colon",0301,Panama,5.07123E+11,colon@rac.com,-79.899,9.359,P010
+OF11,RAC Rodman Branch,Branch,"Rodman Terminal Road, Panama City",0401,Panama,5.07988E+11,rodman@rac.com,-79.554,8.933,P011
+OF12,RAC Honolulu Branch,Branch,"Pier 2 Terminal, Ala Moana Blvd, Honolulu",96817,United States,18081234567,honolulu@rac.com,-157.8583,21.3069,P012
+OF13,RAC Montreal Branch,Branch,"Old Port of Montreal, Quai de lHorloge",H2Y1C6,Canada,1.51412E+11,montreal@rac.com,-73.5673,45.5017,P014
+OF14,RAC Quebec Branch,Branch,"Port of Quebec, 84 Dalhousie Street, Quebec City",G1K8W1,Canada,1.51499E+11,quebec@rac.com,-71.208,46.8139,P015
+OF15,RAC Blanc Sablon Branch,Branch,"Port de Blanc-Sablon, Route 138",G0G,Canada,1.51499E+11,blancsablon@rac.com,-57.1325,51.4197,P016
+OF16,RAC Dover Branch,Branch,"Dover Western Docks, Marine Parade",CT17 9DN,United Kingdom,4.41323E+11,dover@rac.com,1.3111,51.1279,P017
+OF17,RAC Scheveningen Branch,Branch,"Havenkwartier 23, Scheveningen",2586,Netherlands,3.11499E+11,scheveningen@rac.com,4.2721,52.1086,P018
+OF18,RAC Mumbai Branch,Branch,"Port Trust Road, Mazgaon, Mumbai",400001,India,9.11235E+11,mumbai@rac.com,72.8777,19.076,P020
+OF19,RAC Gibraltar Branch,Branch,"Winston Churchill Avenue, Gibraltar",GX11 1AA,Gibraltar,35012345678,gibraltar@rac.com,-5.3536,36.1408,P022
+OF20,RAC London Branch,Branch,"Port of Thames Gateway, London",E16 2EW,United Kingdom,4.42012E+11,london@rac.com,0.0553,51.5072,P023
+OF21,RAC St Petersburg Branch,Branch,"Seaport Passenger Terminal, St Petersburg",190000,Russia,78123456789,stpetersburg@rac.com,30.3351,59.9343,P024
+OF22,RAC Copenhagen Branch,Branch,"Nordhavn Port Terminal, Copenhagen",2150,Denmark,45123456789,copenhagen@rac.com,12.5683,55.6761,P025
+OF23,RAC Hirtshals Branch,Branch,"Port of Hirtshals, Docksvej 20, Hirtshals",9850,Denmark,45123451234,hirtshals@rac.com,9.9667,57.5833,P026
+OF24,RAC Lisbon Branch,Branch,"Gare Marítima de Alcântara, Lisbon",1100-148,Portugal,3.51123E+11,lisbon@rac.com,-9.1393,38.7169,P027
+OF25,RAC Colombo Branch,Branch,"Colombo Harbour, Colombo 01",00100,Sri Lanka,94123456789,colombo@rac.com,79.8612,6.9271,P028
+OF26,RAC Botany Branch,Branch,"Port Botany, Foreshore Road, Sydney",2019,Australia,61298765432,botany@rac.com,151.2295,-33.9461,P029
+OF27,RAC Fremantle Branch,Branch,"Fremantle Port Authority, Victoria Quay",6160,Australia,61123456789,fremantle@rac.com,115.7593,-32.0556,P030
+OF28,RAC Port Hedland Branch,Branch,"Port Hedland Port, Mclarty Street",6721,Australia,61198765432,porthedland@rac.com,118.607,-20.3104,P031
+OF29,RAC Gladstone Branch,Branch,"Gladstone Port Access Road, Gladstone",4680,Australia,61712345678,gladstone@rac.com,151.256,-23.8428,P032
+OF30,RAC Callao Branch,Branch,"Port of Callao, Avenida Manco Capac",07001,Peru,5.11123E+11,callao@rac.com,-77.1333,-12.05,P033
+OF31,RAC Veracruz Branch,Branch,"Port of Veracruz, Malecón",91700,Mexico,5.21235E+11,veracruz@rac.com,-96.1342,19.1738,P035
+OF32,RAC Everglades Branch,Branch,"Port Everglades Terminal, Fort Lauderdale",33316,United States,19541234567,everglades@rac.com,-80.126,26.085,P036
